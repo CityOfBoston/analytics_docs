@@ -97,12 +97,6 @@ The Analytics Team primarily uses these channels on Slack:
 * [\#maps](https://cityofboston-doit.slack.com/archives/C5C9AHZ29) is a channel where various teams collaborate on GIS and map projects.
 * [\#projectmanagement](https://cityofboston-doit.slack.com/archives/G010SNHSFMH) is where the Analytics Team project managers discuss incoming priorities.
 
-**Nice to have -** [**user groups for slack**](https://slack.com/help/articles/212906697-Create-a-user-group)**:**
-
-* @analyticsteam - this notifies the entire Analytics Team
-* @data-analysts - this notifies just the Data Analysts
-* @data-engineers - this notifies just the Data Engineers
-
 ### Email Contact Groups/Distribution Lists
 
 * [analyticsteam@boston.gov](mailto:analyticsteam@boston.gov) - for communication with other departments/external stakeholders

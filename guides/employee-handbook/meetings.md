@@ -106,7 +106,7 @@ When the meeting objective is clear, we can focus on achieving our goals.
 * **Objectives:**
   * Decide on which projects to take on
   * Decide priority of new projects
-* **Format:** Vote on taking on each project using 1-5 cards with [Plan IT Poker](https://www.planitpoker.com/)
+* **Format:** Vote on taking on each project using [1-5 cards](https://docs.boston.gov/analytics/guides/employee-handbook/communication#five-finger-voting-or-1-5-voting) with [Plan IT Poker](https://www.planitpoker.com/)
 * **When:** Weekly, Monday mornings
 * **Participants:** All team members
 

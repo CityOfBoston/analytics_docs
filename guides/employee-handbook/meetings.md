@@ -2,7 +2,7 @@
 
 ## Meeting Roles
 
-We have roles specifically for meetings that help us achieve our goals and distribute responsibilities in a fair manner. Each of these roles is rotating which means that a new member will be assigned one of the roles before each meeting.
+We have roles specifically for meetings that help us achieve our goals and distribute responsibilities in a fair manner. Each of these roles is rotating which means that a new member will be assigned one of the roles before each meeting. You can use [this sheet](https://docs.google.com/spreadsheets/d/1x3cZvN_cSlZwnyZnpbymhU1rJiQfTz4ZsgRv-BdIhS8/edit#gid=0) for randomly assigning roles.
 
 ### Team Leader/Facilitator
 

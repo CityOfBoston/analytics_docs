@@ -6,7 +6,9 @@ description: A guide for new employees to get set up.
 
 ## Computer Setup
 
-### Desktop Software
+{% hint style="info" %}
+If you need to install additional software, email [doitservicedesk@boston.gov](mailto:doitservicedesk@boston.gov) and ask for permission by sending them the specific program you are trying to install, and why.
+{% endhint %}
 
 ### VPN and Remote Connections
 

@@ -22,6 +22,12 @@ Related to the section above, we must make sure we keep passwords secure by not 
 
 Especially when downloading packages for programming, it can be easy to step away from a security-first mindset. Always keep in mind that even seemingly harmless python packages may contain dangerous viruses, so be on the lookout of any suspicious networking activity, and never autopilot downloading software.
 
+## Data Security Policy
+
+Data is secured by defined sensitivity levels and all data \(including our documentation\) must abide by these rules. Please read the latest guidelines below.
+
+{% embed url="https://hub.boston.gov/departments/cyber-security-team/data-security-policy" %}
+
 ## Other Safety Tips 👷
 
 1. Do NOT open "strange" emails - even opening an email can inject nasty viruses into your computer that can propagate into the network

@@ -24,6 +24,7 @@
 * [Data Platform](guides/data-platform.md)
 * [Open Data](guides/open-data.md)
 * [GIS](guides/gis.md)
+* [Networking](https://docs.boston.gov/analytics-internal/guides/networking)
 * [Tools](guides/tools.md)
 
 ## Projects

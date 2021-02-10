@@ -55,7 +55,8 @@ Ready to work with us? [Contact us](https://docs.boston.gov/analytics/#connect-w
   <tbody>
     <tr>
       <td style="text-align:left">Data Pipeline</td>
-      <td style="text-align:left"></td>
+      <td style="text-align:left">Moves and transforms data in an automated fashion. This is our most common
+        request.</td>
       <td style="text-align:left">
         <p>API connections</p>
         <p>ODBC/JDBC connections</p>

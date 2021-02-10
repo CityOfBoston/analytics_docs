@@ -3,7 +3,7 @@
 ## Application
 
 {% hint style="warning" %}
-Due to COVID-related budget constraints, we are currently attempting to determine whether we can proceed with our Summer Fellowship program for this year. We will continue to keep this page updated.
+Due to COVID-related budget constraints, we are currently attempting to determine whether we can proceed with our [Summer Fellowship program](https://www.boston.gov/departments/innovation-and-technology/summer-fellowships) for this year. We will continue to keep this page updated.
 {% endhint %}
 
 ## Hear from past Fellows

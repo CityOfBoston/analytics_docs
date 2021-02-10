@@ -25,7 +25,14 @@
 * [Open Data](guides/open-data.md)
 * [GIS](guides/gis.md)
 * [Networking](https://docs.boston.gov/analytics-internal/guides/networking)
-* [Tools](guides/tools.md)
+* [Tools](guides/tools/README.md)
+  * [Amazon Web Services](guides/tools/amazon-web-services.md)
+  * [Civis Platform](guides/tools/civis-platform.md)
+  * [GitBook](guides/tools/gitbook.md)
+  * [GitHub](guides/tools/github.md)
+  * [Slack](guides/tools/slack.md)
+  * [Tableau](guides/tools/tableau.md)
+  * [Visual Studio Code](guides/tools/visual-studio-code.md)
 
 ## Projects
 

@@ -1,7 +1,3 @@
----
-description: wip
----
-
 # Data Platform
 
 We use a tool called [Civis Platform](tools/civis-platform.md) for everything from querying/analyzing data to building automated pipelines, visualizations, and models.

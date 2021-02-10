@@ -91,6 +91,47 @@ Union/Salary Plan/Grade: SENA/MM1-6
 
 Hours per week: 35
 
+## Data Engineer
+
+**Brief Job Description \(essential functions of the job\):**
+
+The Department of Innovation and Technology is looking for a Data Engineer to join our growing Analytics Team. As part of a highly-collaborative group using data to improve all aspects of city government, the Data Engineer will work on expanding our data infrastructure, developing ETL pipelines and open datasets, and connecting our analysts and data scientists to the data they need. Successful candidates will be able to work closely with other technical staff, project managers, and external partners across City government. They will have a strong understanding of data engineering principles and processes and be able to work on a wide range of projects and with a variety of tools. 
+
+**Responsibilities:**
+
+* Sets up automated extract, transforms, and loads \(ETL\) workflows.
+* Works closely with other members of the team to support their data needs and assist users in interacting with and connecting to databases. 
+* Designs and maintains data warehouse/reporting schemas and migrate pipelines from legacy systems to the team’s new data warehouse.
+* Independently researches and implements new tools and techniques to develop ETL pipelines.
+* Analyzes existing code and make suggestions for optimizing and migrating existing processes .
+* Writes scripts to automate manual processes, improve existing ones, and troubleshoot problems as they occur.
+* Works closely with data analysts and other staff to build data integrations that quickly and effectively solve reporting needs.
+* Performs related work as required.
+
+**Minimum Entrance Qualifications:**
+
+* Applicant must have at least three \(3\) years of full-time, or equivalent part-time, experience using databases to manage and process datasets for reporting and analytics as part of a large organization.
+* A bachelor's degree in computer science, mathematics, engineering, or another STEM field is preferred and may be substituted for two \(2\) years of the required experience.
+* Strong analytical, problem solving, and communication skills, including mapping of business needs or issues to technical solutions.
+* Demonstrated ability to communicate technical nuances in plain language with partners of varying technical background.
+* Excellent problem solving and critical thinking skills and experience troubleshooting and debugging software and hardware issues.
+* Advanced SQL query and data transformation skills, preferably using PostgreSQL and/or Transactional SQL \(T-SQL\).
+* Familiarity with PostGIS preferred.
+* Experience with the Civis Analytics platform preferred.
+* Experience with lightweight scripting languages such as Python or Bash, version control using Git, and using Linux operating systems.
+* Familiarity with managing and supporting automated ETL and data synchronization.
+* Familiarity with Amazon Web Services cloud computing ecosystem.
+* Experience in the public sector \(especially local government\) desirable but not required.
+* Must be able to exercise good judgment and focus on detail as required by the job.
+
+BOSTON RESIDENCY REQUIRED.
+
+Terms:
+
+Union/Salary Plan/Grade: SENA/MM1-8
+
+Hours per week: 35
+
 ## **Director of Performance Management**
 
 Mayor Walsh is committed to using data to evaluate, understand, and improve how the City of Boston operates and delivers services. The Director of Performance Management is responsible for supporting this vision by creating mechanisms to evaluate and inform how well the city is operating, driving change in specific areas of city operations, and creating a culture to sustain and build upon this work.

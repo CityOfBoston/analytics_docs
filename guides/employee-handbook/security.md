@@ -24,7 +24,7 @@ Especially when downloading packages for programming, it can be easy to step awa
 
 ## Data Security Policy
 
-Data is secured by defined sensitivity levels and all data \(including our documentation\) must abide by these rules. Please read the latest guidelines below.
+Data is secured by defined sensitivity levels and all data \(including our documentation\) must abide by these rules. Please read the latest guidelines below. If you are unsure what classification some data falls under, please contact the security team.
 
 {% embed url="https://hub.boston.gov/departments/cyber-security-team/data-security-policy" %}
 

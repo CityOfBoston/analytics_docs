@@ -32,5 +32,11 @@ The DoIT Terminology Survival Guide lists all of the most common city acronyms t
 
 {% page-ref page="data-engineers-handbook.md" %}
 
+## Other Resources
+
+{% embed url="https://hub.boston.gov/" caption="For employee resources, guides, and tools." %}
+
+{% embed url="https://access.boston.gov/" caption="One place for accessing most of our applications." %}
+
 
 

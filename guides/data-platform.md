@@ -1,6 +1,6 @@
 # Data Platform
 
-We use a tool called [Civis Platform](tools/civis-platform.md) for everything from querying/analyzing data to building automated pipelines, visualizations, and models.
+We use a tool called [Civis Platform](employee-handbook/tools/civis-platform.md) for everything from querying/analyzing data to building automated pipelines, visualizations, and models.
 
 ## How Data is Data Organized
 

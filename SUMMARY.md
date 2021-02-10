@@ -22,6 +22,7 @@
   * [Policies](guides/employee-handbook/policies.md)
   * [Documentation](guides/employee-handbook/documentation.md)
 * [Data Platform](guides/data-platform.md)
+* [Data Visualization](guides/data-visualization.md)
 * [Open Data](guides/open-data.md)
 * [GIS](guides/gis.md)
 * [Networking](https://docs.boston.gov/analytics-internal/guides/networking)

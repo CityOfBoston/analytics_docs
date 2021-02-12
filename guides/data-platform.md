@@ -64,11 +64,12 @@ In general, the table/view naming conventions make it easier to find datasets as
 
 * All table names should be **lowercase.**
 * All table names should use [**snake case**](https://en.wikipedia.org/wiki/Snake_case)**.**
-* Our general naming structure is: \[**high\_level\_project\_name**\]\_\[**purpose\_of\_table**\]\_\[optional: **suffix** \(see below\)\]
 
 {% hint style="success" %}
-Putting the high-level project name first will allow all tables to be grouped together and will allow all the related data to be located faster.
+\[**high\_level\_project\_name**\]\_\[**purpose\_of\_table**\]\_\[optional: **suffix** \(see below\)\]
 {% endhint %}
+
+Putting the high-level project name first will allow all tables to be grouped together and will allow all the related data to be located faster.
 
 **Table/View Suffixes:**
 
@@ -102,6 +103,43 @@ A table in the **sandbox** schema should have your initials prefixed in the tabl
 * All column names should use [**snake case**](https://en.wikipedia.org/wiki/Snake_case)**.**
 * Whenever possible and useful, make all the column names identical to the column names in the source data. 
 * Column names may only be title case or uppercase in a view used for a report or application.
+
+### Data Pipeline Naming Conventions
+
+Data pipeline definitions live in version control in GitHub but only become live when they are added in platform. This section talks about the naming conventions for both the definition and the in-platform workflow.
+
+#### In GitHub
+
+**Overall guidelines:**
+
+* Group workflows together alphabetically by putting the high level project name first, ex: 311, Hansen.
+* Designate the source and target \(import and export\) platforms of the data. 
+* Make the workflow name in Civis and the yaml file name in Github as identical as possible to ease lookup.
+* All data pipeline definition files should be lowercase.
+* All data pipeline definition files should use [**snake case**](https://en.wikipedia.org/wiki/Snake_case)**.**
+
+{% hint style="success" %}
+project\_name\_from\_source\[\_source2\]\_to\_destination\[\_destination2\]
+{% endhint %}
+
+**Good Examples:**
+
+* covid\_john\_hopkins\_historical\_from\_github\_to\_civis
+  * for a workflow that pulls COVID John Hopkins data from Github and imports it to Civis \(one source, one destination example\)
+* tapas\_from\_googlesheet\_knack\_to\_arcgis.yaml
+  * for a workflow that pulls data from a Google Sheet and a Knack form and uploads it to ArcGIS. \(multiple sources example\)
+* mbta\_heatmap\_from\_mbta\_api\_to\_s3
+  * for a workflow that pulls data from the MBTA API and uploads it to S3 for the MBTA heatmap project. 
+
+#### In Civis Platform
+
+The name of the workflow in Civis should be the same as the data pipeline definition yaml file name for that workflow, except replacing the underscores with spaces and applying capitalization rules.
+
+**Example:**
+
+* covid\_john\_hopkins\_historical\_from\_github\_to\_civis --&gt; "COVID John Hopkins Historical from Github to Civis"
+
+### Data Unit Test Naming Conventions
 
 ## Security
 

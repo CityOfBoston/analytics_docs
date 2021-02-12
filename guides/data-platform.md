@@ -150,6 +150,10 @@ The data unit test files located in [civis\_pipelines/test/data unit test/expect
 * All data unit test names should be lowercase.
 * All data unit test files should use [**snake case**](https://en.wikipedia.org/wiki/Snake_case) ****\(except the hyphen\).
 
+{% hint style="success" %}
+\[schema\]-\[table\].json
+{% endhint %}
+
 **Example:**
 
 * analytics\_open\_data.moving\_truck\_permits **-&gt;** analytics\_open\_data-moving\_truck\_permits.json

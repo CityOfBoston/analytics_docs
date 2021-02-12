@@ -30,7 +30,17 @@ Before you start querying data, it's good to have an understanding of how data i
 An administrator of the Civis Platform can see all the data stored in the platform. By nature, the administrator role is designed to have full access.
 {% endhint %}
 
+## Analyzing Data
+
+## Importing, Transforming, and Exporting Data
+
+## Data Pipelines
+
+## Naming Conventions
+
 ### Schema Naming Conventions
+
+**Overall guidelines:**
 
 * All schema names align with the above Data Classification categories. 
 * The prefix of each schema designates the department or project to which the data belongs. 
@@ -42,19 +52,13 @@ An administrator of the Civis Platform can see all the data stored in the platfo
 * All `restricted_data` tables are on a person by person access only, you must request it for yourself for a specific project. More details [here](). 
 * All members of the Analytics Team can write to the sandbox schema. Please read the [Table Naming Guide]() before creating tables.
 
+{% hint style="success" %}
+\[department acronym or project name\]\_\[data classification level\]
+{% endhint %}
+
 {% hint style="danger" %}
 Any table in `sandbox` is subject to deletion at any time - please do not build visualizations or automation on these tables. Also, storage of restricted data is **not allowed** in the`sandbox` schema.
 {% endhint %}
-
-## Analyzing Data
-
-## Importing, Transforming, and Exporting Data
-
-## Data Pipelines
-
-## Naming Conventions
-
-### Schema Naming Conventions
 
 ### Table/View Naming Conventions
 

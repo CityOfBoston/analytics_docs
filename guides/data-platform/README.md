@@ -4,7 +4,7 @@
 
 Historically, data has been siloed by departments and even within teams in each department which creates issues like multiple variants of important datasets, a decrease in data accuracy, difficulty in cross-department collaboration, and impedes the goal of Boston being a data-driven city. To combat these issues, we are building a [centralized data platform](https://statescoop.com/bostons-new-centralized-data-platform-is-its-starting-point-for-predictive-analytics/) for the entire City of Boston which serves as a single source of truth for its data. This allows each department to maintain ownership over their data but with built-in data best practices, tools, and support from our team. So, far we've onboarded 28 out of our 74 departments and are continuously working on breaking down our city's data silos.
 
-In this guide, you'll find information and tutorials on all of the features of our data platform and how we maintain a strong data foundation that is accurate, reliable, and secure. At a high-level, we use a tool called [Civis Platform](employee-handbook/tools/civis-platform.md) for everything from querying/analyzing data to building automated pipelines, visualizations, and models. We also run our own infrastructure on [AWS](employee-handbook/tools/amazon-web-services.md) for custom applications, visualizations, and emergency situations.
+In this guide, you'll find information and tutorials on all of the features of our data platform and how we maintain a strong data foundation that is accurate, reliable, and secure. At a high-level, we use a tool called [Civis Platform](../employee-handbook/tools/civis-platform.md) for everything from querying/analyzing data to building automated pipelines, visualizations, and models. We also run our own infrastructure on [AWS](../employee-handbook/tools/amazon-web-services.md) for custom applications, visualizations, and emergency situations.
 
 ## **Data Classification**
 
@@ -13,7 +13,7 @@ Before you start querying data, it's good to have an understanding of how data i
 ### Open data
 
 * No restrictions on internal use by any user of the platform or City of Boston employee. 
-* Any data already shared on the [Analyze Boston](open-data.md) portal is classified as open data. However, not all data in open data schemas are published on Analyze Boston, it must first go through a [separate approval process](https://bostonopendata.knack.com/opendataapprovalpublication#processoverview/). All squares are rectangles but not all rectangles are squares.
+* Any data already shared on the [Analyze Boston](../open-data.md) portal is classified as open data. However, not all data in open data schemas are published on Analyze Boston, it must first go through a [separate approval process](https://bostonopendata.knack.com/opendataapprovalpublication#processoverview/). All squares are rectangles but not all rectangles are squares.
 
 ### Internal data \(default classification level\)
 

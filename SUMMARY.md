@@ -29,6 +29,7 @@
     * [Docker](guides/employee-handbook/tools/docker.md)
     * [GitBook](guides/employee-handbook/tools/gitbook.md)
     * [GitHub](guides/employee-handbook/tools/github.md)
+    * [Knack](guides/employee-handbook/tools/knack.md)
     * [QGIS](guides/employee-handbook/tools/qgis.md)
     * [Slack](guides/employee-handbook/tools/slack.md)
     * [Tableau](guides/employee-handbook/tools/tableau.md)

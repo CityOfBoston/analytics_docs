@@ -82,7 +82,7 @@ Do not continue to use a channel that created a conflict to resolve it - try a d
 
 ## Internal Communication
 
-### [Slack](https://cityofboston-doit.slack.com/)
+### [Slack](tools/slack.md)
 
 The Analytics Team primarily uses these channels on Slack:
 

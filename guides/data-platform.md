@@ -62,8 +62,8 @@ In general, the table/view naming conventions make it easier to find datasets as
 
 **Overall guidelines:**
 
-* All table names should be **lowercase**
-* All table names should use [**snake case**](https://en.wikipedia.org/wiki/Snake_case)\*\*\*\*
+* All table names should be **lowercase.**
+* All table names should use [**snake case**](https://en.wikipedia.org/wiki/Snake_case)**.**
 * Our general naming structure is: \[**high\_level\_project\_name**\]\_\[**purpose\_of\_table**\]\_\[optional: **suffix** \(see below\)\]
 
 {% hint style="success" %}
@@ -94,6 +94,14 @@ A table in the **sandbox** schema should have your initials prefixed in the tabl
 {% endhint %}
 
 ### Column Naming Conventions
+
+**Overall guidelines:**
+
+* All column names should be lowercase.
+  * Column names are case sensitive in Postgres.
+* All column names should use [**snake case**](https://en.wikipedia.org/wiki/Snake_case)**.**
+* Whenever possible and useful, make all the column names identical to the column names in the source data. 
+* Column names may only be title case or uppercase in a view used for a report or application.
 
 ## Security
 

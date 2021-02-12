@@ -60,9 +60,11 @@ Any table in `sandbox` is subject to deletion at any time - please do not build 
 
 In general, the table/view naming conventions make it easier to find datasets as well as quickly understand what is in them and what they are used for. Please think carefully about your table name. Don’t use extra filler words, don’t put your name into production tables \(ex: mbta\_alerts\_janedoe\), and make the table name be descriptive of what the purpose of the table is.
 
-Our general naming structure is:
+**Overall guidelines:**
 
-\[**high\_level\_project\_name**\]\_\[**purpose\_of\_table**\]\_\[optional: **suffix** \(see below\)\]
+* All table names should be **lowercase**
+* All table names should use [**snake case**](https://en.wikipedia.org/wiki/Snake_case)\*\*\*\*
+* Our general naming structure is: \[**high\_level\_project\_name**\]\_\[**purpose\_of\_table**\]\_\[optional: **suffix** \(see below\)\]
 
 {% hint style="success" %}
 Putting the high-level project name first will allow all tables to be grouped together and will allow all the related data to be located faster.
@@ -70,8 +72,8 @@ Putting the high-level project name first will allow all tables to be grouped to
 
 **Table/View Suffixes:**
 
-* `_view` **-&gt;** represents this is a view and not a table
-* `_staging` **-&gt;** represents a table that is temporarily used for computation
+* `_view` or `_vw` **-&gt;** represents this is a view and not a table
+* `_staging` or `_stg` **-&gt;** represents a table that is temporarily used for computation
 
 **Good Examples:**
 

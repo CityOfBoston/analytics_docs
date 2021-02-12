@@ -135,7 +135,7 @@ Data pipeline definitions live in version control in GitHub but only become live
 * All data pipeline definition files should use [**snake case**](https://en.wikipedia.org/wiki/Snake_case)**.**
 
 {% hint style="success" %}
-project\_name\_from\_source\[\_source2\]\_to\_destination\[\_destination2\]
+project\_name\_from\_source\[\_source2\]\_to\_destination\[\_destination2\].yaml
 {% endhint %}
 
 **Good Examples:**

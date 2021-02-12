@@ -53,7 +53,7 @@ An administrator of the Civis Platform can see all the data stored in the platfo
 * All members of the Analytics Team can write to the sandbox schema. Please read the [Table Naming Guide]() before creating tables.
 
 {% hint style="success" %}
-\[department acronym or project name\]\_\[data classification level\]
+\[department acronym or project name\]\_\[[data classification level](https://docs.boston.gov/analytics/guides/data-platform#data-classification)\]
 {% endhint %}
 
 {% hint style="danger" %}

@@ -30,6 +30,14 @@ Before you start querying data, it's good to have an understanding of how data i
 An administrator of the Civis Platform can see all the data stored in the platform. By nature, the administrator role is designed to have full access.
 {% endhint %}
 
+### Schema
+
+#### Sandbox
+
+{% hint style="danger" %}
+Any table in `sandbox` is subject to deletion at any time - please do not build visualizations or automation on these tables. Also, storage of [restricted data](https://docs.boston.gov/analytics/guides/data-platform#data-classification) is **not allowed** in the`sandbox` schema.
+{% endhint %}
+
 ## Analyzing Data
 
 ## Importing, Transforming, and Exporting Data
@@ -54,10 +62,6 @@ An administrator of the Civis Platform can see all the data stored in the platfo
 
 {% hint style="success" %}
 \[department acronym or project name\]\_\[[data classification level](https://docs.boston.gov/analytics/guides/data-platform#data-classification)\]
-{% endhint %}
-
-{% hint style="danger" %}
-Any table in `sandbox` is subject to deletion at any time - please do not build visualizations or automation on these tables. Also, storage of restricted data is **not allowed** in the`sandbox` schema.
 {% endhint %}
 
 ### Table/View Naming Conventions

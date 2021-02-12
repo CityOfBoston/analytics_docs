@@ -58,9 +58,15 @@ Any table in `sandbox` is subject to deletion at any time - please do not build 
 
 ### Table/View Naming Conventions
 
-In general, the table/view naming conventions make it easier to find
+In general, the table/view naming conventions make it easier to find datasets as well as quickly understand what is in them and what they are used for. Please think carefully about your table name. Don’t use extra filler words, don’t put your name into production tables \(ex: mbta\_alerts\_janedoe\), and make the table name be descriptive of what the purpose of the table is.
+
+Our general naming structure is:
 
 \[**high\_level\_project\_name**\]\_\[**purpose\_of\_table**\]\_\[optional: **suffix** \(see below\)\]
+
+{% hint style="success" %}
+Putting the high-level project name first will allow all tables to be grouped together and will allow all the related data to be located faster.
+{% endhint %}
 
 **Table/View Suffixes:**
 
@@ -80,6 +86,10 @@ In general, the table/view naming conventions make it easier to find
 * _mbta\_new_ **\(unclear what data the table actually stores\)**
 * _mbta\_alerts\_new\_test_ **\(ok in sandbox, never ok in production\)**
 * _mbta\_alerts\_2_ **\(there is really never any reason for the \_2\)**
+
+{% hint style="warning" %}
+A table in the **sandbox** schema should have your initials prefixed in the table name, ex: a table created in sandbox by Jane Doe containing salaries should be labeled ****`jd_employee_salary`
+{% endhint %}
 
 ### Column Naming Conventions
 

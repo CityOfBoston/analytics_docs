@@ -137,9 +137,22 @@ The name of the workflow in Civis should be the same as the data pipeline defini
 
 **Example:**
 
-* covid\_john\_hopkins\_historical\_from\_github\_to\_civis --&gt; "COVID John Hopkins Historical from Github to Civis"
+* covid\_john\_hopkins\_historical\_from\_github\_to\_civis **-&gt;** COVID John Hopkins Historical from Github to Civis
 
 ### Data Unit Test Naming Conventions
+
+The data unit test files located in [civis\_pipelines/test/data unit test/expectations/](https://github.com/CityOfBoston/civis_pipelines/tree/master/tests/data_unit_tests/expectations) should be named after the table they are running the data unit test on.
+
+**Overall guidelines:**
+
+* Name the data unit test after the table name \(including schema\).
+* Use a hyphen between the schema/table name \(a . causes parsing issues\).
+* All data unit test names should be lowercase.
+* All data unit test files should use [**snake case**](https://en.wikipedia.org/wiki/Snake_case) ****\(except the hyphen\).
+
+**Example:**
+
+* analytics\_open\_data.moving\_truck\_permits **-&gt;** analytics\_open\_data-moving\_truck\_permits.json
 
 ## Security
 

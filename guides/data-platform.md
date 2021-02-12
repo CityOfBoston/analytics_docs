@@ -6,23 +6,21 @@ Historically, data has been siloed by departments and even within teams in each 
 
 In this guide, you'll find information and tutorials on all of the features of our data platform and how we maintain a strong data foundation that is accurate, reliable, and secure. At a high-level, we use a tool called [Civis Platform](employee-handbook/tools/civis-platform.md) for everything from querying/analyzing data to building automated pipelines, visualizations, and models. We also run our own infrastructure on [AWS](employee-handbook/tools/amazon-web-services.md) for custom applications, visualizations, and emergency situations.
 
-## Querying Data
-
-### **Data Classification**
+## **Data Classification**
 
 Before you start querying data, it's good to have an understanding of how data is organized and classified. All data stored in our data warehouse will be classified into one of the below three access level types, in accordance with our Data Governance Policy. 
 
-#### Open data
+### Open data
 
 * No restrictions on internal use by any user of the platform or City of Boston employee. 
 * Any data already shared on the [Analyze Boston](open-data.md) portal is classified as open data. However, not all data in open data schemas are published on Analyze Boston, it must first go through a [separate approval process](https://bostonopendata.knack.com/opendataapprovalpublication#processoverview/). All squares are rectangles but not all rectangles are squares.
 
-#### Internal data \(default classification level\)
+### Internal data \(default classification level\)
 
 * No restrictions on internal use by members of the Analytics team.
 * Users from other teams must request access to each internal data schema they want, the data owner will approve the request prior to the requesting team being granted access. 
 
-#### Restricted data
+### Restricted data
 
 * Anyone, including all members of the Analytics team, must request access on a table by table basis from the data owner using the [Data Access Request Form](https://bostonopendata.knack.com/DAR#home/). 
 
@@ -30,17 +28,27 @@ Before you start querying data, it's good to have an understanding of how data i
 An administrator of the Civis Platform can see all the data stored in the platform. By nature, the administrator role is designed to have full access.
 {% endhint %}
 
-### Schema
+## Querying Data
+
+### Via Civis Platform
+
+### Via a SQL Client
+
+## Analyzing Data
+
+### Jupyter Notebooks
+
+## Importing, Transforming, and Exporting Data
+
+### Civis Modules
+
+### Custom Modules
 
 #### Sandbox
 
 {% hint style="danger" %}
 Any table in `sandbox` is subject to deletion at any time - please do not build visualizations or automation on these tables. Also, storage of [restricted data](https://docs.boston.gov/analytics/guides/data-platform#data-classification) is **not allowed** in the`sandbox` schema.
 {% endhint %}
-
-## Analyzing Data
-
-## Importing, Transforming, and Exporting Data
 
 ## Data Pipelines
 

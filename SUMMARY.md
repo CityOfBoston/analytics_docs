@@ -25,6 +25,7 @@
     * [Amazon Web Services](guides/employee-handbook/tools/amazon-web-services.md)
     * [ArcGIS](guides/employee-handbook/tools/arcgis.md)
     * [Civis Platform](guides/employee-handbook/tools/civis-platform.md)
+    * [Databases](guides/employee-handbook/tools/databases.md)
     * [DBeaver](guides/employee-handbook/tools/dbeaver.md)
     * [Docker](guides/employee-handbook/tools/docker.md)
     * [GitBook](guides/employee-handbook/tools/gitbook.md)

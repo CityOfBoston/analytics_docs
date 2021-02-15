@@ -12,3 +12,15 @@ Slack is an instant messaging tool our team uses for daily communication. You ca
 
 ## Slack Bots
 
+### [Toast](https://toast.ninja/)
+
+Toast gives us notifications and reminders about GitHub pull requests.
+
+#### Adding a new teammate
+
+`/toast add [@teammate] [teammate_github_username]`
+
+#### Viewing Pull Request Statuses
+
+`/toast [me], [team], [stale]`
+

@@ -8,11 +8,19 @@ description: >-
 
 ## Introduction to Civis
 
+## Getting Started
+
 ### What is Civis?
 
-### Features
+## Features
 
-## Getting Started
+### Query Pane
+
+### Jupyter Notebooks
+
+### Import, Export, and Transform Modules
+
+### Workflows
 
 ## Permissions
 

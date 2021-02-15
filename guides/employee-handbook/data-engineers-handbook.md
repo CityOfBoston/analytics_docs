@@ -4,11 +4,13 @@
 
 | Name | What we use it for |
 | :--- | :--- |
-| Civis Platform | Querying our data warehouse, running data pipelines, Jupyter notebooks, reports, and ML models. |
-| DBeaver | Writing/running SQL queries against multiple types of databases as well as database management. |
-| VSCode | Writing, testing, and debugging code \(mostly Python, SQL, and YAML\). |
+| [Civis Platform](tools/civis-platform.md) | Querying our data warehouse, running data pipelines, Jupyter notebooks, reports, and ML models. |
+| [DBeaver](tools/dbeaver.md) | Writing/running SQL queries against multiple types of databases as well as database management. |
+| [VSCode](tools/visual-studio-code.md) | Writing, testing, and debugging code \(mostly Python, SQL, and YAML\). |
 | FileZilla | Accessing data on SFTP servers. |
-| GitHub | Version controlling our code. |
+| [GitHub](tools/github.md) | Version controlling our code. |
+
+## Development Environment
 
 ## Data Pipelines
 

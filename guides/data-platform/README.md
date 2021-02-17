@@ -120,6 +120,12 @@ A table in the **sandbox** schema should have your initials prefixed in the tabl
 * Whenever possible and useful, make all the column names identical to the column names in the source data. 
 * Column names may only be title case or uppercase in a view used for a report or application.
 
+**Geospatial Columns**
+
+{% hint style="success" %}
+column\_name\_\[spatial\_reference\_number\]
+{% endhint %}
+
 ### Data Pipeline Naming Conventions
 
 Data pipeline definitions live in version control in GitHub but only become live when they are added in platform. This section talks about the naming conventions for both the definition and the in-platform workflow.

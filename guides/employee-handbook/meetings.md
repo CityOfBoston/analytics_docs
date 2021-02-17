@@ -128,3 +128,11 @@ When the meeting objective is clear, we can focus on achieving our goals.
 * **When:** Monthly, Typically the third Tuesday afternoon
 * **Participants:** All team members \(optional\)
 
+### Documentation Day
+
+* **Objectives:**
+  * Document some of the projects or processes we haven't been able to
+* **Format:** Usually we book a room at the Library, currently we use Google Meet but it's not necessarily a collaborative exercise
+* **When:** Monthly, Typically the third Wednesday afternoon
+* **Participants:** All team members \(optional\)
+

@@ -4,14 +4,14 @@
 
 Data triagers are the first responders to requests and problems for the Analytics Team.
 
-| Day | Data Engineer |
-| :--- | :--- |
-| Monday | Jonathan Porter |
-| Tuesday | Dan Kim |
-| Wednesday | Andrew Shirshac |
-| Thursday | Maria Borisova |
-| Friday | Dan Kim |
-| **Backup Triage** | Chris Stephens |
+| Day | Project Managers | Data Engineer |
+| :--- | :--- | :--- |
+| Monday | Courtney Moores | Jonathan Porter |
+| Tuesday | Jonathan Porter | Dan Kim |
+| Wednesday | Matthew Smith | Andrew Shirshac |
+| Thursday | Mieka Lewis | Maria Borisova |
+| Friday | Tim Condon | Dan Kim |
+| **Backup Triage** |  | Chris Stephens |
 
 {% hint style="info" %}
 If you're planning time off or working on a high-priority project it is your responsibility to find coverage and communicate to the team who is taking over your coverage. The [Analytics Team's Google Calendar](https://calendar.google.com/calendar/embed?src=boston.gov_l3dkf9mc639muo1gubj9ktmlq8%40group.calendar.google.com&ctz=America%2FNew_York) should also be updated.

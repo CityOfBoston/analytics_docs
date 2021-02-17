@@ -11,7 +11,6 @@
 
 | Name | Title |
 | :--- | :--- |
-| [Courtney Moores](https://docs.boston.gov/analytics-internal/team/employee-directory#data-analytics) | Data & Performance Analyst |
 | [Kevin Crossley](https://docs.boston.gov/analytics-internal/team/employee-directory#data-analytics) | Data & Performance Analyst |
 | [Joyce John](https://docs.boston.gov/analytics-internal/team/employee-directory#data-analytics) | GIS Admin |
 | [Charlotte Shade](https://docs.boston.gov/analytics-internal/team/employee-directory#data-analytics) | Data & Performance Analyst |
@@ -33,4 +32,5 @@
 | [Stefanie Costa Leabo](https://docs.boston.gov/analytics-internal/team/employee-directory#leadership) | Chief Data Officer |
 | [Maria Borisova](https://docs.boston.gov/analytics-internal/team/employee-directory#leadership) | Data Engineering Manager |
 | [Matthew Smith](https://docs.boston.gov/analytics-internal/team/employee-directory#leadership) | Principal Data Scientist |
+| [Courtney Moores](https://docs.boston.gov/analytics-internal/team/employee-directory#data-analytics) | Director of Performance Management |
 

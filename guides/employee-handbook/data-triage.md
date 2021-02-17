@@ -19,6 +19,7 @@ If you're planning time off or working on a high-priority project it is your res
 
 Having dedicated triagers on the team helps combat [the bystander effect](https://en.wikipedia.org/wiki/Bystander_effect). The schedule makes ownership clear and thus creates room for everyone else on the team to spend most of their day on deep work. The triager is encouraged to plan their day for the kind of work that can be accomplished successfully with this additional demand on time.
 
+* The Project Manager triager is primarily responsible for responding to Analytics Team requests whether via [analyticsteam@boston.gov](mailto:analyticsteam@boston.gov) or slack in [\#analytics](https://cityofboston-doit.slack.com/archives/C08ETUZ18)
 * The Data Engineering triager is primarily responsible for resolving problems with our data pipelines & civis platform.
   * Every morning, a workflow failure report is sent to the data engineering team. This report should be reviewed by the Data Engineer triager.
 

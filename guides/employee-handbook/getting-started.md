@@ -19,7 +19,7 @@ For certain tasks, you may need to be connected to the City's network. In order 
 All credentials are stored in [AWS Secrets Manager](https://console.aws.amazon.com/secretsmanager/home?region=us-east-1#/listSecrets) which allows you to search by name, description, and tags. You will only be able to access credentials available to your role which is set up by the time you are able to log in.
 
 {% hint style="info" %}
-Having issues with finding/storing credentials? Contact our Data Platform Engineer for assistance.
+Having issues with finding/storing credentials? Contact our [Data Platform Engineer](../../team/employee-directory.md#data-engineering) for assistance.
 {% endhint %}
 
 ## Connecting to our Data Platform

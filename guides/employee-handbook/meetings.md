@@ -14,6 +14,7 @@ The team leader is responsible for making sure the goals of a meeting are clear 
 * Keeping the conversation focused on meeting objectives.
 * Keeping track of time.
 * Making sure participants get an equal amount of talking time.
+* If it's a recurring meeting, assigning roles for the next meeting.
 
 ### Scribe
 
@@ -23,6 +24,7 @@ The scribe is responsible for documenting the key ideas and outcomes from the me
 
 * Writing down objectives accomplished and next steps.
 * Documenting any key ideas/learnings from the meeting.
+* Sending a summary to the meeting participants.
 
 ### Devil's Advocate
 

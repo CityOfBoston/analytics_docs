@@ -36,6 +36,7 @@
     * [Slack](guides/employee-handbook/tools/slack.md)
     * [Tableau](guides/employee-handbook/tools/tableau.md)
     * [Visual Studio Code](guides/employee-handbook/tools/visual-studio-code.md)
+* [Data Collection](guides/data-collection.md)
 * [Data Platform](guides/data-platform.md)
 * [Data Visualization](guides/data-visualization.md)
 * [Open Data](guides/open-data.md)

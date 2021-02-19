@@ -24,7 +24,7 @@
   * [Tools](guides/employee-handbook/tools/README.md)
     * [Amazon Web Services](guides/employee-handbook/tools/amazon-web-services.md)
     * [ArcGIS](guides/employee-handbook/tools/arcgis.md)
-    * [Brightsign](guides/employee-handbook/tools/brightsign.md)
+    * [BrightSign](guides/employee-handbook/tools/brightsign.md)
     * [Civis Platform](guides/employee-handbook/tools/civis-platform.md)
     * [Databases](guides/employee-handbook/tools/databases.md)
     * [DBeaver](guides/employee-handbook/tools/dbeaver.md)

@@ -12,6 +12,8 @@
 
 {% page-ref page="tableau.md" %}
 
+{% page-ref page="brightsign.md" %}
+
 ## Data Infrastructure
 
 {% page-ref page="amazon-web-services.md" %}

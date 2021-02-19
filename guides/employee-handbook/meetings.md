@@ -116,7 +116,7 @@ When the meeting objective is clear, we can focus on achieving our goals.
 
 * **Objectives:**
   * Decide on the complexity of incoming tasks
-  * Assign tasks?
+  * Assign tasks
 * **Format:** Vote on the complexity of each task using Fibonacci cards with [Plan IT Poker](https://www.planitpoker.com/)
 * **When:** Weekly, Monday afternoons
 * **Participants:** All team members

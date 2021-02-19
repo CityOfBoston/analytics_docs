@@ -46,5 +46,87 @@ A hosted feature layer is the basic [building block](https://doc.arcgis.com/en/a
 
 ### [ArcMap](https://desktop.arcgis.com/en/arcmap/)
 
+## [StoryMaps](https://storymaps.arcgis.com/stories)
+
+### Optimal Image Sizes for Story Maps
+
+{% hint style="info" %}
+All images should be in JPG format.
+{% endhint %}
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align:left">Type</th>
+      <th style="text-align:left">Sizing (px)</th>
+      <th style="text-align:left">Ratio</th>
+      <th style="text-align:left">Notes</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align:left">Featured Content</td>
+      <td style="text-align:left">600 x 400</td>
+      <td style="text-align:left">3:2</td>
+      <td style="text-align:left"></td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Map Tour (New)</td>
+      <td style="text-align:left">2000 x 750</td>
+      <td style="text-align:left">4:3</td>
+      <td style="text-align:left">Landscape</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Map Tour (Original)</td>
+      <td style="text-align:left">1000 x 750</td>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"></td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Cascade</td>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"></td>
+      <td style="text-align:left">
+        <p>2000 px - Covers, immersive sections, large images in narrative sections.</p>
+        <p>1000 px - Small/medium images in narrative sections</p>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Map Journal</td>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"></td>
+      <td style="text-align:left">
+        <p>2000 px - Main Stage</p>
+        <p>1000 px - Side panels</p>
+        <p>2000 px - Expandable side panels</p>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Shortlist (New)</td>
+      <td style="text-align:left">1000 x 750</td>
+      <td style="text-align:left">4:3</td>
+      <td style="text-align:left">If you use 3:2 instead of 4:3, just make it uniform for all items.</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Custom Points</td>
+      <td style="text-align:left">120 x 120</td>
+      <td style="text-align:left"></td>
+      <td style="text-align:left">An example is the flowers on the Garden Contest map.</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Twitter</td>
+      <td style="text-align:left">600 x 400</td>
+      <td style="text-align:left"></td>
+      <td style="text-align:left">4 x 6 print size</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Header Logo</td>
+      <td style="text-align:left">250 x 50 max</td>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"></td>
+    </tr>
+  </tbody>
+</table>
+
 ## [Survey123](https://www.esri.com/en-us/arcgis/products/arcgis-survey123/overview)
 

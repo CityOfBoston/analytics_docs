@@ -144,5 +144,5 @@ When the meeting objective is clear, we can focus on achieving our goals.
   * Pay down technical debt and tasks in backlog
 * **Format:** The week before, we plan tasks we want to tackle and let stakeholders know that requests in this week will take longer than usual unless it's a critical City service
 * **When:** Yearly, Typically the first week of December \(when things are slower\)
-* **Participants:** All team members \(optional\)
+* **Participants:** All team members
 

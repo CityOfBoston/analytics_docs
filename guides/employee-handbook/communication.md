@@ -87,11 +87,11 @@ Do not continue to use a channel that created a conflict to resolve it - try a d
 The Analytics Team primarily uses these channels on Slack:
 
 * [\#analytics](https://cityofboston-doit.slack.com/archives/C08ETUZ18) is the primary channel for all of DoIT's data and analysis conversations. This is where people from other teams can link to their issues, ask for help, direction, and get general feedback from members of the Analytics Team.
-* [\#analytics\_builds](https://cityofboston-doit.slack.com/archives/CEVME0XMH) is where slack logs the status of pull requests on our data pipelines repo: [civis\_pipelines](https://github.com/CityOfBoston/civis_pipelines)
 * [\#analytics\_team\_only](https://cityofboston-doit.slack.com/archives/CRV64J8BF) is where the team can have internal discussions.
 * [\#analytics\_wfh](https://cityofboston-doit.slack.com/archives/G010BR5PUV6) is where we report status updates on what we've accomplished at the end of each day.
 * [\#appreciation-wall](https://cityofboston-doit.slack.com/archives/C01GYQK3KD5) is a place to give recognition to a fellow co-worker who embodies [our team values](https://docs.boston.gov/analytics/team/mission-vision-values#our-values).
-* [\#civis](https://cityofboston-doit.slack.com/archives/CE69C27F0) is for anything related to the civis platform. This isn't used very much anymore and can be deprecated.
+* [\#civis](https://cityofboston-doit.slack.com/archives/CE69C27F0) is for anything related to the civis platform.
+* [\#civis\_pipelines\_pr](https://cityofboston-doit.slack.com/archives/C01LRUDL5M1) is where slack logs the status of pull requests on our data pipelines repo: [civis\_pipelines](https://github.com/CityOfBoston/civis_pipelines)
 * [\#data-engineering](https://cityofboston-doit.slack.com/archives/CB1QSMM3M) is where the Data Engineering team collaborates.
 * [\#general](https://cityofboston-doit.slack.com/archives/C08CEPRS5) is a DoIT-wide channel for general updates on what is happening in the department.
 * [\#maps](https://cityofboston-doit.slack.com/archives/C5C9AHZ29) is a channel where various teams collaborate on GIS and map projects.

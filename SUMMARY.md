@@ -6,6 +6,7 @@
   * [☎️ Employee Directory](team/employee-directory.md)
   * [💼 Our Services](team/our-services.md)
 * [Programs](programs/README.md)
+  * [Analyze Boston](programs/analyze-boston.md)
   * [Summer Fellowship](programs/summer-fellowship.md)
 
 ## Guides

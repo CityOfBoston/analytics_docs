@@ -2,7 +2,9 @@
 
 ## [ArcGIS Online](https://www.esri.com/en-us/arcgis/products/arcgis-online/overview)
 
-### Hosted Feature Layer
+### [Hosted Feature Layer](https://doc.arcgis.com/en/arcgis-online/manage-data/hosted-web-layers.htm)
+
+A hosted feature layer is the basic [building block](https://doc.arcgis.com/en/arcgis-online/manage-data/data-in-online.htm) of the maps we create. In a map, you can use multiple layers of data to overlay information.
 
 #### How to create a new hosted feature layer via ArcGIS Online
 
@@ -14,6 +16,9 @@
 4. Assuming your dataset has geospatial columns and it correctly recognized those columns you can leave the rest as is and choose **Add Item**.
 
 #### How to overwrite a hosted feature layer via ArcGIS Online
+
+1. Find the hosted feature layer you'd like to update by searching the [Content](https://boston.maps.arcgis.com/home/content.html) section.
+2. On the right, choose **Update Data** &gt; **Overwrite Entire Layer** then follow the instructions.
 
 #### How to overwrite a hosted feature layer via Civis
 

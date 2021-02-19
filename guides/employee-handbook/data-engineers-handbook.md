@@ -16,7 +16,7 @@
 
 ## Code Review
 
-Version control is a mean to both backup code and track changes over time. While most software companies tend to operate under the "work quickly and break things" principle. This is mainly possible with continuous testing and deployment cycles, but since the City of Boston is a municipal goverment, we operate on a slower pace than most our industry friends.
+Version control is a means to both backup code and track changes over time. While most software companies tend to operate under the "work quickly and break things" principle. This is mainly possible with continuous testing and deployment cycles, but since the City of Boston is a municipal government, we operate at a slower pace than most of our industry friends.
 
 While a monorepo with no development branch is the latest trend for software, we use the old model of two branches. This is to ensure that at least one branch will be working at any given moment, and to facilitate a larger number of code reviews than most companies employ.
 

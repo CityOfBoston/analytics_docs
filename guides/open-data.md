@@ -37,6 +37,18 @@ description: The City of Boston's Open Data program is currently in its third it
 * **Medium:** Analyze Boston has a Medium page to share data stories and other news. This has not been updated since the 2016 launch.
   * [Analyze Boston Medium](https://medium.com/news-stories-from-boston-open-data)
 
+## How to Open Up Your Data
+
+We don't just open data up to the public; it goes through a formal process that helps us understand what data can be safely made public so as to not compromise individual privacy.
+
+1. [Create an account here](https://bostonopendata.knack.com/opendataapprovalpublication)
+2. Once approved, follow the instructions to submit a new dataset. NOTE: this new process requires that you submit a data dictionary in order to kick things off. [Here's an example of a data dictionary!](https://data.boston.gov/dataset/income-restricted-housing/resource/cfdb5e6c-47d2-4f66-a5ac-27f55bc38fea)
+3. Submissions are reviewed by our security team, and then \(if it passes\) your legal counsel. If this is time-sensitive, it's helpful to give your legal counsel a heads up that this is coming down the pike so they're aware and can look out for the emails when it gets to them.
+4. Once this is all approved, we \(the Analytics Team\) will be in contact with you. We will ask you for a few things:
+   1. Context language. This is language that helps people understand what the dataset is, why you collected it, how you use it...and anything else someone might need to know in order to use the data correctly. There is no limit to how much context you provide, but you want to be sure to be clear and concise. [Here is an example of some great context language!](https://data.boston.gov/dataset/municipal-lobbying) Note that you will want to link to anything on Boston.gov that might be relevant. You might also want to link to the dataset from relevant Boston.gov pages. [Here's an example of what that might look like.](https://www.boston.gov/departments/city-clerk/lobbying-city-boston)
+   2. Dataset. We need the data! If this is a static, point-in-time dataset, the most ideal would be a CSV file. If you are trying to provide real-time data, the team can work with you to get your data into a file type and location that makes the most sense. Email [analyticsteam@boston.gov](mailto:analyticsteam@boston.gov) with any questions.
+5. Once we have context language and data from you, the Analytics Team can get it published on [data.boston.gov](http://data.boston.gov/)!
+
 ## **Helpful Links**
 
 ### **Analyze Boston Content**

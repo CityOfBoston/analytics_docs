@@ -52,6 +52,23 @@ Any table in `sandbox` is subject to deletion at any time - please do not build 
 
 ## Data Pipelines
 
+## Data Access Requirements
+
+A summary of the type of data sharing we require from vendors and any party we pull data from automatically. Feel free to share with departments and external stakeholders.
+
+{% hint style="info" %}
+Please include the language below in any City of Boston data sharing agreement.
+{% endhint %}
+
+* The City must be able to programmatically \(not manually\) export the data at regular daily \(or more frequently if possible\) intervals. The City requires an export method which will allow for automated exports, without manual work. We will accept any type of API access or being provided a REST endpoint which will give us direct access to the data. A browser login where a person has to log into the portal and manually click a button to export the data is not sufficient. If an API is not possible, we will accept a daily upload of the data onto our SFTP site. The vendor must accept full responsibility for delivering the raw transactional data onto our SFTP site and be responsible for not missing any days of data.
+* The format of the exported data must be either CSV, JSON, or another machine-readable format.
+* The City must be provided with a data dictionary that describes the purpose of each column in each data table. The data dictionary must also describe all the possible values in each column if they are not obvious and how those values are defined in the system. For example, if there is a column for status with a few options for the type of status, then we need an explanation of what each status means. A diagram version of the data dictionary outlining all the columns is also encouraged. 
+* If there is more than one table with data, and the tables logically relate to each other, the City must be provided with a [schema diagram](https://docs.oracle.com/database/121/COMSC/diagrams.htm#COMSC00016) of how each table connects to each other. It must outline primary and foreign keys used to connect the data. All data tables must logically connect to each other or you may provide an explanation of why a specific table does not connect to the rest of the data.
+
+{% hint style="info" %}
+[Here](https://docs.google.com/document/d/1R7_ONukFVptqRGmm1R4VpRpmQ9hyfwMMAqd6FsG5wgI/edit?usp=sharing) is a view-only version of this section. Share with anyone.
+{% endhint %}
+
 ## Naming Conventions
 
 ### Schema Naming Conventions

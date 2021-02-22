@@ -111,6 +111,7 @@ When the meeting objective is clear, we can focus on achieving our goals.
 * **Format:** Vote on taking on each project using [1-5 cards](https://docs.boston.gov/analytics/guides/employee-handbook/communication#five-finger-voting-or-1-5-voting) with [Plan IT Poker](https://www.planitpoker.com/)
 * **When:** Weekly, Monday mornings
 * **Participants:** All team members
+* \*\*\*\*[**Agenda Structure**](https://docs.google.com/document/d/1Tq_y3zWhtO9SmEXRHvCLkT95zDQHghUoPRI0CJ7Y1hg/edit?usp=sharing)  
 
 ### Complexity Meeting \(Weekly Priorities\)
 

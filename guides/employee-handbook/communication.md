@@ -119,3 +119,42 @@ You can tag the Analytics Team in GitHub using:
 * 4 fingers - This is a good decision.
 * 5 fingers - I believe this is the best possible decision and I'm prepared to own the project.
 
+## External Communication
+
+On the Analytics Team, we work with a wide variety of stakeholders and we've learned that there are countless ways to approach a project or to solve a problem. Below are the guidelines we've consolidated from years of experience that you should keep in mind when working with stakeholders on any type of project.
+
+#### Stakeholders have varying levels of familiarity with data
+
+More often than not, stakeholders are not going to be as data-savvy as those on the Analytics team. This means a couple of things:
+
+* Be patient and explain your thought process. Even though something might be second nature to you, it might be a new concept to a stakeholder who doesn't work with data often. Take a step back and explain your thought process and what steps you are going to take to solve the problem.
+* They are looking to you to be the expert. Be confident in your approach and transparent with the process.
+
+#### The project might start out with a lot of excitement, but enthusiasm might die down
+
+It's not because the stakeholder doesn't care about the project, but just like us, they are busy with other projects they have going on. If they need to take a quick break to work on another project, that's okay. It's also okay for you to make sure you're checking in with them and making sure that the project stays on track. This process can also be cyclical. Excitement might build a few times during the project and then die down again - just be diligent with follow-up and make sure you're keeping stakeholders engaged.
+
+#### Stakeholders know their data best - rely on them
+
+While the Analytics Team might be the experts on how to best analyze or interpret data - the stakeholders are the experts on the data content. Throughout the project, rely on them for any context around what the data means. Make sure they give you their input on what metrics are being included in analysis and that they are helping in query writing to make sure everything makes sense for both sides.
+
+#### Sometimes stakeholders might need help or more time in figuring out what they're looking / asking for
+
+Even when a request for a project is put together, sometimes the stakeholder might still need some assistance in figuring out what is going to be the most useful tool / analysis for them. You have experience with other stakeholders and departments - use this experience to help guide the stakeholder in what you think the best approach is for them. They know where they need help, but in some cases, you might have a clearer sense of the best way of doing that.
+
+#### Be flexible - sometimes things will move in a different direction
+
+Similar to the previous point, sometimes a project will shift in a different direction than originally planned. Be flexible and understanding with the stakeholder. Assuming the new direction is still within the scope of the project, work with them to figure out the best approach to solve their problem. If the project moves in a different direction, rely on other members of the Analytics team if you have questions about the changes.
+
+#### There might be technical limitations - work with stakeholders to figure out what's best
+
+Sometimes there might be limitations to what can be done technically. It's important to work with the stakeholders and be honest about those limitations to figure out the best approach. If a solution you often use requires IT support for an outside agency, consider looking into alternative solutions that might be able to bypass that. Or if there are a few different options for a solution and each have their pros and cons, work closely with the stakeholder and find out what is most important to them to help make that decision. Also, work closely with the Data Engineering team to have a full understanding of what is technically possible on our end.
+
+#### The answer is not always going to be 'Yes'
+
+Since we work as a service team, we always want to tell our stakeholders that yes, we can do that - and want to do what we can to make that possible. However, sometimes the answer will be no. There might be technical limitations that can't be overcome, there might be resource limitations, or maybe it just isn't in the best interest of the stakeholder. Of course, we want to help in whatever way we can when we have a project request, but understand that there are limitations and sometimes it is in everyone's best interest to hold off on a project.
+
+#### Ask a lot of questions
+
+The stakeholders know what problems they are having. They know the content of their data, and often know the limitations of their data. Ask about the problems they are trying to solve. Ask about how they think they can best be helped. If you have other ideas, ask them how that would affect this problem and if it would be helpful. Ask about the data and what everything means, and how they currently analyze it. Ask about what queries they are already using and how you can best utilize those. Get as much information as you can out of the stakeholders and use their knowledge to come up with the best solution or deliverable for them that you can.
+

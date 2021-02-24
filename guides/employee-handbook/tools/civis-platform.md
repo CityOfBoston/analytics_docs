@@ -12,6 +12,10 @@ description: >-
 
 ### What is Civis?
 
+{% hint style="info" %}
+If you don't see Civis in your Access Boston page, your manager should check to see if you've been added to the [Civis group](https://access.boston.gov/group-management) and that any temporary emails have been shut off if you've recently received a permanent email address.
+{% endhint %}
+
 ## Features
 
 ### Query Pane

@@ -24,3 +24,5 @@ description: >-
 
 ## Permissions
 
+## Contract
+

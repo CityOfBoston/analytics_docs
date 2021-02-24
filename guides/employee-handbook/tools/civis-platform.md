@@ -50,6 +50,8 @@ How this script template works is, it takes the workflow id you input and then u
 
 Once you've created your trigger and tested it, add it to the [Email Triggers project](https://platform.civisanalytics.com/spa/#/projects/134640) in Civis so you can easily find it again later, and please use the naming convention: **Email Trigger - {Workflow Name}**
 
+![](../../../.gitbook/assets/image%20%283%29.png)
+
 ## Permissions
 
 ## Contract

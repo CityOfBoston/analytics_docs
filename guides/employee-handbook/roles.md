@@ -1,4 +1,12 @@
+---
+description: Job descriptions for all of the roles on our team.
+---
+
 # Roles
+
+{% hint style="info" %}
+Are you interested in working at the City of Boston? Please visit our [career center](https://www.boston.gov/career-center) to find open positions.
+{% endhint %}
 
 ## **Data Analytics Project Manager**
 

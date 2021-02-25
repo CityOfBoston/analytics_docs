@@ -132,6 +132,56 @@ Union/Salary Plan/Grade: SENA/MM1-8
 
 Hours per week: 35
 
+## Data Engineering Manager
+
+This is a provisional appointment.
+
+ The Department of Innovation and Technology is looking for a Data Engineering Manager to join our growing Citywide Analytics Team. As part of a highly-collaborative group using data to improve all aspects of city government, the Data Engineering Manager will provide technical leadership and expertise as we develop and expand our data infrastructure.  Successful candidates will be able to work closely with other technical staff, project managers, and external partners across City government.  They will have a strong understanding of data engineering principles and processes and be able to manage a wide range of projects to provide ETL and data warehousing systems for the Analytics Team.
+
+This role will support data analysis and will be a key driver for project timelines across data architecture as well as data quality.  We need a key partner who will be responsible for communicating and relationship-building with senior staff throughout the organization to prioritize and execute work, provide mentorship and support staff, and enhance the overall consumption and reliance on analytics.  
+
+Successful candidates should have a proven track record of delivering high-quality, timely insights and innovative solutions to difficult problems.  Loving city government is preferred! 
+
+#### Responsibilities:
+
+Primary Responsibilities:
+
+* Design data warehouse / reporting schemas that advance the City's reporting and analysis needs.
+* Manage relationships with vendors of various City systems to ensure interoperability with our reporting and analysis environment.
+* Effectively supervises full-time and contract resources managing data integration systems, as well as associated hardware and platforms.
+* Manage projects effectively and efficiently while meeting assigned priorities, deadlines and deliverables.
+* Provide oversight and input on data integration schemas and architecture used by the City of Boston.
+* Defines, prioritizes and allocates resources; tracks and provides status reports of work assignments, projects and programs performed in support of the Citywide Analytics Team.
+* Oversees multiple concurrent large scale projects, directs the allocation of resources and sets priorities.
+* Performs one-off and repeatable ETL work that results in successful support of the City of Boston's business intelligence and analytics team.
+* Build and manage ETL processes in both a dedicated ETL system, such as SAP BusinessObjects Data Services or SSIS, as well as with lightweight scripting languages where appropriate.
+* Work closely with data analysts and business analysts to build data integrations that quickly and effectively solve reporting needs.
+* Perform related work as required.
+
+#### Minimum Entrance Qualifications:
+
+Minimum Entrance Qualifications:
+
+* Four \(4\) years of full-time, or equivalent part-time, experience working with Database ETL experience for reporting and analytics with a proven track record of successfully supporting an organization's business intelligence and data analytics departments.
+* A bachelor's degree in economics, finance, computer science, business administration, or marketing, or related field is preferred and may be substituted for two \(2\) years of the required experience. Master's degree highly preferred.
+* Ability to communicate the results of analyses in a clear and effective manner.
+* Strong analytical, problem solving and communication skills, including mapping of business need or issue to development of application requirements or procedural initiatives.
+* Proven ability to ensure effective forms of documentation essential for support of overall technical and user needs.
+* Excellent problem solving and critical thinking skills.
+* SQL query and data transformation skills. Microsoft SQL Server expertise a plus.
+* Experience with MPP data warehouse platforms \(such as SAP Hana, Amazon Redshift, or HP Vertica\) or Hadoop-stack applications \(such as Hive, Spark, Impala, or Sqoop\)
+* Managing and supporting automated ETL and synchronization between data sets.
+* Experience in the public sector \(especially in a city or local government\) is highly desirable.
+* Must have the ability to exercise good judgment and focus on detail as required by the job.
+
+BOSTON RESIDENCY REQUIRED.
+
+Terms:
+
+Union/Salary Plan/Grade:  SENA/MM1-10
+
+Hours per week: 35
+
 ## **Director of Performance Management**
 
 Mayor Walsh is committed to using data to evaluate, understand, and improve how the City of Boston operates and delivers services. The Director of Performance Management is responsible for supporting this vision by creating mechanisms to evaluate and inform how well the city is operating, driving change in specific areas of city operations, and creating a culture to sustain and build upon this work.

@@ -9,8 +9,8 @@ Data triagers are the first responders to requests and problems for the Analytic
 | Monday | Courtney Moores | Jonathan Porter |
 | Tuesday | Jonathan Porter | Dan Kim |
 | Wednesday | Matthew Smith | Andrew Shirshac |
-| Thursday | Mieka Lewis | Maria Borisova |
-| Friday | Tim Condon | Dan Kim |
+| Thursday | Mieka Lewis | Dan Kim |
+| Friday | Tim Condon | Andrew Shirshac |
 | **Backup Triage** |  | Chris Stephens |
 
 {% hint style="warning" %}

@@ -45,6 +45,6 @@
 
 ## Projects
 
-* [View Projects](https://storymaps.arcgis.com/stories/af34b10f2d024bfebca5f3f0ac5a37a7)
+* [Projects Site](https://storymaps.arcgis.com/stories/af34b10f2d024bfebca5f3f0ac5a37a7)
 * [More Projects](projects/more-projects.md)
 

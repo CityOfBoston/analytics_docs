@@ -22,6 +22,10 @@ A hosted feature layer is the basic [building block](https://doc.arcgis.com/en/a
 
 #### How to overwrite a hosted feature layer via Civis
 
+{% hint style="info" %}
+Please make sure the feature layer was **created from a CSV** file and not a Service Definition otherwise you will see a `list index out of range` error when using the Export: Arcgis Feature Layer component.
+{% endhint %}
+
 ## [ArcGIS Desktop](https://desktop.arcgis.com/en/)
 
 ### How to Install ArcGIS Desktop Applications

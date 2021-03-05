@@ -22,6 +22,7 @@
   * [Data Engineer's Handbook](guides/employee-handbook/data-engineers-handbook.md)
   * [Policies](guides/employee-handbook/policies.md)
   * [Documentation](guides/employee-handbook/documentation.md)
+  * [Union](guides/employee-handbook/union.md)
   * [Tools](guides/employee-handbook/tools/README.md)
     * [Amazon Web Services](guides/employee-handbook/tools/amazon-web-services.md)
     * [ArcGIS](guides/employee-handbook/tools/arcgis.md)

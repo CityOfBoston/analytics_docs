@@ -139,6 +139,14 @@ When the meeting objective is clear, we can focus on achieving our goals.
 * **When:** Monthly, Typically the third Wednesday afternoon
 * **Participants:** All team members \(optional\)
 
+### DoIT All Staff
+
+* **Objectives:**
+  * Get department-wide updates and Q&A from leadership
+* **Format:** Usually it's at the CIC, currently we use Google Meet
+* **When:** Quarterly, Typically the second Friday morning of the new quarter
+* **Participants:** All team members \(optional\)
+
 ### Bash Week
 
 * **Objectives:**

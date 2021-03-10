@@ -6,7 +6,7 @@ description: www.SENA9158.com
 
 ## Contacts
 
-Our union representatives are Scot Ross & Ann Roper Quinn.
+Our union representatives are Scott Ross & Ann Roper Quinn.
 
 ## [Weingarten Rights](https://en.wikipedia.org/wiki/Weingarten_Rights)
 

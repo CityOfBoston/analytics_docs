@@ -4,6 +4,10 @@ description: www.SENA9158.com
 
 # Union
 
+## Contacts
+
+Our union representatives are Scot Ross & Ann Roper Quinn.
+
 ## [Weingarten Rights](https://en.wikipedia.org/wiki/Weingarten_Rights)
 
 The U.S. Supreme Court has ruled that the National Labor Relations Act gives workers the right to request union representation during investigatory interviews by superiors, security personnel and other managerial staff. These are called Weingarten Rights.

@@ -19,7 +19,6 @@
 
 | Name | Title |
 | :--- | :--- |
-| [Jonathan Porter](https://docs.boston.gov/analytics-internal/team/employee-directory#data-engineering) | Tech Lead, Data Engineering |
 | [Albert Lee](https://docs.boston.gov/analytics-internal/team/employee-directory#data-engineering) | Data Platform Engineer |
 | [Daniel Kim](https://docs.boston.gov/analytics-internal/team/employee-directory#data-engineering) | Data Engineer |
 | [Chris Stephens](https://docs.boston.gov/analytics-internal/team/employee-directory#data-engineering) | Data Quality Engineer |
@@ -30,7 +29,7 @@
 | Name | Title |
 | :--- | :--- |
 | [Stefanie Costa Leabo](https://docs.boston.gov/analytics-internal/team/employee-directory#leadership) | Chief Data Officer |
-| [Maria Borisova](https://docs.boston.gov/analytics-internal/team/employee-directory#leadership) | Data Engineering Manager |
+| [Jonathan Porter](https://docs.boston.gov/analytics-internal/team/employee-directory#leadership) | Data Engineering Manager |
 | [Matthew Smith](https://docs.boston.gov/analytics-internal/team/employee-directory#leadership) | Principal Data Scientist |
 | [Courtney Moores](https://docs.boston.gov/analytics-internal/team/employee-directory#data-analytics) | Director of Performance Management |
 

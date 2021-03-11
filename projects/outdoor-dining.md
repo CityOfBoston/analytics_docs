@@ -10,7 +10,11 @@ High level summary
 
 ### Milestones
 
-## 
+## Internal Docs
+
+{% embed url="https://app.gitbook.com/@boston/s/analytics-internal/projects/active/outdoor-dining-internal" %}
+
+
 
 ## Contacts
 

@@ -12,6 +12,14 @@ Slack is an instant messaging tool our team uses for daily communication. You ca
 
 ## Slack Bots
 
+### [GitBook](https://docs.gitbook.com/integrations/slack)
+
+The GitBook slack integration allows us to search our documentation directly in Slack.
+
+#### Search Documentation
+
+`/gitbook [search query]`
+
 ### [Toast](https://toast.ninja/)
 
 Toast gives us notifications and reminders about GitHub pull requests.

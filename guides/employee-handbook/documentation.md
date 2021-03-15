@@ -20,5 +20,7 @@ First, think about who the intended audience is for what you will be writing. Ge
 
 We also have an [internal documentation](https://docs.boston.gov/analytics-internal/) site for anything that fits the internal data specification in the [data security policy](https://docs.boston.gov/analytics/guides/employee-handbook/security#data-security-policy).
 
+## [City of Boston Writing Guide](https://www.boston.gov/departments/digital-team/city-boston-writing-guide)
 
+## [Brand Guidelines](https://www.boston.gov/departments/innovation-and-technology/brand-guidelines)
 

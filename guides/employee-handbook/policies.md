@@ -6,5 +6,7 @@
 
 ## [Vacation Policy](https://hub.boston.gov/resources-current-employees#time-off)
 
+## [Holiday Schedule](https://www.boston.gov/holidays)
+
 ## [All Other Policies](https://www.boston.gov/departments/human-resources#download-our-policies)
 

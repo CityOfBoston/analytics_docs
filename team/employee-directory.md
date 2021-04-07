@@ -21,7 +21,6 @@
 | :--- | :--- |
 | [Albert Lee](https://docs.boston.gov/analytics-internal/team/employee-directory#data-engineering) | Data Platform Engineer |
 | [Daniel Kim](https://docs.boston.gov/analytics-internal/team/employee-directory#data-engineering) | Data Engineer |
-| [Chris Stephens](https://docs.boston.gov/analytics-internal/team/employee-directory#data-engineering) | Data Quality Engineer |
 | [Andrew Shirshac](https://docs.boston.gov/analytics-internal/team/employee-directory#data-engineering) | Data Engineer |
 
 ## Leadership

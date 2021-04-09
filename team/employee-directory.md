@@ -1,18 +1,21 @@
 # ☎️ Employee Directory
 
-## Project & Program Managers
+## Leadership
 
 | Name | Title |
 | :--- | :--- |
-| [Mieka Lewis](https://docs.boston.gov/analytics-internal/team/employee-directory#project-and-program-managers) | Project Manager |
-| [Tim Condon](https://docs.boston.gov/analytics-internal/team/employee-directory#project-and-program-managers) | Project Manager |
+| [Stefanie Costa Leabo](https://docs.boston.gov/analytics-internal/team/employee-directory#leadership) | Chief Data Officer |
+| [Jonathan Porter](https://docs.boston.gov/analytics-internal/team/employee-directory#leadership) | Data Engineering Manager |
+| [Matthew Smith](https://docs.boston.gov/analytics-internal/team/employee-directory#leadership) | Principal Data Scientist |
+| [Courtney Moores](https://docs.boston.gov/analytics-internal/team/employee-directory#data-analytics) | Director of Performance Management |
 
 ## Data Analytics
 
 | Name | Title |
 | :--- | :--- |
+| [Tim Condon](https://app.gitbook.com/@boston/s/analytics-internal/team/employee-directory#data-analytics) | Project Manager |
 | [Kevin Crossley](https://docs.boston.gov/analytics-internal/team/employee-directory#data-analytics) | Data & Performance Analyst |
-| [Joyce John](https://docs.boston.gov/analytics-internal/team/employee-directory#data-analytics) | GIS Admin |
+| [Mieka Lewis](https://app.gitbook.com/@boston/s/analytics-internal/team/employee-directory#data-analytics) | Project Manager |
 | [Charlotte Shade](https://docs.boston.gov/analytics-internal/team/employee-directory#data-analytics) | Data & Performance Analyst |
 
 ## Data Engineering
@@ -22,13 +25,4 @@
 | [Albert Lee](https://docs.boston.gov/analytics-internal/team/employee-directory#data-engineering) | Data Platform Engineer |
 | [Daniel Kim](https://docs.boston.gov/analytics-internal/team/employee-directory#data-engineering) | Data Engineer |
 | [Andrew Shirshac](https://docs.boston.gov/analytics-internal/team/employee-directory#data-engineering) | Data Engineer |
-
-## Leadership
-
-| Name | Title |
-| :--- | :--- |
-| [Stefanie Costa Leabo](https://docs.boston.gov/analytics-internal/team/employee-directory#leadership) | Chief Data Officer |
-| [Jonathan Porter](https://docs.boston.gov/analytics-internal/team/employee-directory#leadership) | Data Engineering Manager |
-| [Matthew Smith](https://docs.boston.gov/analytics-internal/team/employee-directory#leadership) | Principal Data Scientist |
-| [Courtney Moores](https://docs.boston.gov/analytics-internal/team/employee-directory#data-analytics) | Director of Performance Management |
 

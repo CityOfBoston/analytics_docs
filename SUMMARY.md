@@ -35,6 +35,7 @@
     * [GitHub](guides/employee-handbook/tools/github.md)
     * [Knack](guides/employee-handbook/tools/knack.md)
     * [QGIS](guides/employee-handbook/tools/qgis.md)
+    * [Serv-U](guides/employee-handbook/tools/serv-u.md)
     * [Slack](guides/employee-handbook/tools/slack.md)
     * [Tableau](guides/employee-handbook/tools/tableau.md)
     * [Visual Studio Code](guides/employee-handbook/tools/visual-studio-code.md)

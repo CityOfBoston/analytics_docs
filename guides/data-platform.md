@@ -199,5 +199,19 @@ The data unit test files located in [civis\_pipelines/test/data unit test/expect
 
 ## [Networking](https://docs.boston.gov/analytics-internal/guides/networking)
 
-### 
+## File-Sharing Server
+
+Also known as transfer.boston.gov or the SFTP Server, the file-sharing server is used in situations where you need to share large files or sensitive information [which shouldn't be shared via email](https://docs.boston.gov/analytics/guides/employee-handbook/security#everything-is-public-record). You can access it at [transfer.boston.gov](https://transfer.boston.gov/).
+
+{% hint style="success" %}
+Need an account? Email the [Analytics Team](mailto:analyticsteam@boston.gov) and we can [create one for you](employee-handbook/tools/serv-u.md#add-a-new-user).
+{% endhint %}
+
+**Example \#1:** A vendor needs to send us data automatically and we can't connect to their database directly. They could set up a job that sends files to a secure area in our file-sharing server.
+
+**Example \#2:** You need to send a file containing sensitive information to someone in a different department.
+
+{% hint style="warning" %}
+We previously used an IP address directly for certain use-cases but that has been **deprecated**. If you're still using an IP address, please switch to using [transfer.boston.gov](https://transfer.boston.gov/) as the host.
+{% endhint %}
 

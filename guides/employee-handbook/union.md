@@ -8,6 +8,10 @@ description: www.SENA9158.com
 
 Our union representatives are Scott Ross & Ann Roper Quinn.
 
+## Collective Bargaining Agreement
+
+You can find the most up-to-date collective bargaining agreement and salary scale [here](https://www.boston.gov/departments/labor-relations) under Salaried Employees of North America, Local 9158. This agreement is typically updated every 3 years and outlines all of your benefits and expectations as a union member and an employee.
+
 ## [Weingarten Rights](https://en.wikipedia.org/wiki/Weingarten_Rights)
 
 The U.S. Supreme Court has ruled that the National Labor Relations Act gives workers the right to request union representation during investigatory interviews by superiors, security personnel and other managerial staff. These are called Weingarten Rights.

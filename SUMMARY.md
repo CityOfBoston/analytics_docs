@@ -49,5 +49,6 @@
 
 * [Projects Site](https://storymaps.arcgis.com/stories/af34b10f2d024bfebca5f3f0ac5a37a7)
 * [Outdoor Dining](projects/outdoor-dining.md)
+* [ZBA Appeals Tracker](projects/zba-appeals-tracker.md)
 * [More Projects](projects/more-projects.md)
 

@@ -139,6 +139,14 @@ When the meeting objective is clear, we can focus on achieving our goals.
 * **When:** Monthly, Typically the third Wednesday afternoon
 * **Participants:** All team members \(optional\)
 
+### Manager's Meeting
+
+* **Objectives:**
+  * Get department-wide updates and Q&A from leadership
+* **Format:** A series of updates over Google Meet
+* **When:** Monthly, Typically the last Tuesday at noon
+* **Participants:** All DoIT Managers \(optional\)
+
 ### DoIT All Staff
 
 * **Objectives:**

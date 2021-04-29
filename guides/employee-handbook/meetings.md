@@ -122,6 +122,15 @@ When the meeting objective is clear, we can focus on achieving our goals.
 * **When:** Weekly, Monday afternoons
 * **Participants:** All team members
 
+### Change Management
+
+* **Objectives:**
+  * Spread awareness about technical changes that might affect multiple departments
+  * Discuss potential issues or blockers for changes
+* **Format:** Google Meet, walkthrough of agenda about current and upcoming changes
+* **When:** Weekly, Thursday 10:30 AM
+* **Participants:** One person from Analytics \(normally Data Engineering Manager\)
+
 ### Analytics Roundtable
 
 * **Objectives:**

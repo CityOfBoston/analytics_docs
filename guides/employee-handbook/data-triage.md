@@ -11,7 +11,6 @@ Data triagers are the first responders to requests and problems for the Analytic
 | Wednesday | Matthew Smith | Andrew Shirshac |
 | Thursday | Mieka Lewis | Dan Kim |
 | Friday | Tim Condon | Andrew Shirshac |
-| **Backup Triage** |  | Chris Stephens |
 
 {% hint style="warning" %}
 If you're planning time off or working on a high-priority project it is your responsibility to find coverage and communicate to the team who is taking over your coverage. The [Analytics Team's Google Calendar](https://calendar.google.com/calendar/embed?src=boston.gov_l3dkf9mc639muo1gubj9ktmlq8%40group.calendar.google.com&ctz=America%2FNew_York) should also be updated.

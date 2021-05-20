@@ -15,6 +15,12 @@ A hosted feature layer is the basic [building block](https://doc.arcgis.com/en/a
    2. Once you've uploaded a CSV file you'll notice a checkbox with **Publish this file as a hosted layer** selected. Keep it selected.
 4. Assuming your dataset has geospatial columns and it correctly recognized those columns you can leave the rest as is and choose **Add Item**.
 
+{% hint style="warning" %}
+If your data contains dates or timestamps remember to change the timezone setting at the bottom to **Eastern Time** as shown in the picture below.
+{% endhint %}
+
+![The default timezone in ArcGIS Online is UTC.](../../../.gitbook/assets/image%20%285%29.png)
+
 #### How to overwrite a hosted feature layer via ArcGIS Online
 
 1. Find the hosted feature layer you'd like to update by searching the [Content](https://boston.maps.arcgis.com/home/content.html) section.

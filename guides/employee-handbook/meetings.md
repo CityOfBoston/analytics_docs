@@ -103,7 +103,7 @@ When the meeting objective is clear, we can focus on achieving our goals.
 
 ## Regular Recurring Meetings
 
-### Scoping/Prioritization Meeting \(Long Term Planning\)
+### Analytics Weekly
 
 * **Objectives:**
   * Decide on which projects to take on
@@ -113,10 +113,10 @@ When the meeting objective is clear, we can focus on achieving our goals.
 * **Participants:** All team members
 * \*\*\*\*[**Agenda Structure**](https://docs.google.com/document/d/1Tq_y3zWhtO9SmEXRHvCLkT95zDQHghUoPRI0CJ7Y1hg/edit?usp=sharing)  
 
-### Complexity Meeting \(Weekly Priorities\)
+### Engineering Weekly Voting
 
 * **Objectives:**
-  * Decide on the complexity of incoming tasks
+  * Decide on the complexity of incoming engineering tasks
   * Assign tasks
 * **Format:** Vote on the complexity of each task using Fibonacci cards with [Plan IT Poker](https://www.planitpoker.com/)
 * **When:** Weekly, Monday afternoons

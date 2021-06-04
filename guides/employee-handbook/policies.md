@@ -4,6 +4,8 @@
 
 ## [Benefits Policy](https://hub.boston.gov/health-and-wellness-benefits)
 
+### [Professional Development](https://hub.boston.gov/resources-current-employees#professional-development)
+
 ## [Vacation Policy](https://hub.boston.gov/resources-current-employees#time-off)
 
 ## [Holiday Schedule](https://www.boston.gov/holidays)

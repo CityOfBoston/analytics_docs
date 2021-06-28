@@ -9,7 +9,7 @@
 | [VSCode](tools/visual-studio-code.md) | Writing, testing, and debugging code \(mostly Python, SQL, and YAML\). |
 | FileZilla | Accessing data on SFTP servers. |
 | [GitHub](tools/github.md) | Version controlling our code. |
-| DBA Tools | A set of handy tables, views, and functions that will help you administer and debug our data warehouse. |
+| [DBA Tools](data-engineers-handbook.md#dba-tools) | A set of handy tables, views, and functions that will help you administer and debug our data warehouse. |
 
 ## Development Environment
 

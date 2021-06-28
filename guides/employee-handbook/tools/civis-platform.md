@@ -71,5 +71,39 @@ Once you've created your trigger and tested it, add it to the [Email Triggers pr
 
 ## Permissions
 
+## Schemas
+
+### Creating New Schemas
+
+There are three types of schemas that you can create: open\_data, internal\_data and restricted\_data. You can read more about these below:
+
+{% page-ref page="../../data-platform.md" %}
+
+In order to make sure each new schema that gets created has the correct permissions we've created script templates that you can run in Civis which will create the necessary groups, assign permissions, and update existing groups for you.
+
+{% hint style="info" %}
+Only users in the admin group can create new schemas.
+{% endhint %}
+
+#### Open & Internal Schemas
+
+Both open and internal schemas can be created with the same script template below. The script template will change what it does based on whether the schema name contains **open\_data** or **internal\_data** in it.
+
+{% embed url="https://platform.civisanalytics.com/spa/\#/scripts/sql/39625074" caption="Parameterized SQL job in Civis that uses the source code below. Just enter in a schema name and run." %}
+
+{% embed url="https://github.com/CityOfBoston/civis\_pipelines/blob/master/utils/create\_new\_schema\_open\_and\_internal.sql" caption="Source code for creating open and internal schemas." %}
+
+#### Restricted Schemas
+
+Similarly, the restricted schema script template will assign the appropriate permissions for a restricted schema and only a restricted schema. It must have restricted\_data as the suffix otherwise it will raise an error.
+
+{% embed url="https://platform.civisanalytics.com/spa/\#/scripts/sql/61096138" caption="Parameterized SQL job in Civis that uses the source code below. Just enter in a schema name and run." %}
+
+{% embed url="https://github.com/CityOfBoston/civis\_pipelines/blob/master/utils/create\_new\_schema\_restricted.sql" caption="Source code for creating restricted schemas" %}
+
+#### Other Schemas
+
+If you need to create a schema that fits outside of the logic above, this should be a flag to consider your other options. While nothing will stop you from creating a schema without a template, we have permission unit tests that will catch and flag schemas that aren't created properly and are a security risk.
+
 ## Contract
 

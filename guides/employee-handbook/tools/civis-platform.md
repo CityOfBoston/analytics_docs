@@ -75,11 +75,9 @@ Once you've created your trigger and tested it, add it to the [Email Triggers pr
 
 ### Creating New Schemas
 
-There are three types of schemas that you can create: open\_data, internal\_data and restricted\_data. You can read more about these below:
+There are three types of schemas that you can create: **open\_data**, **internal\_data** and **restricted\_data**. You can read more about these in the [Data Classification](../../data-platform.md#data-classification) section.
 
-{% page-ref page="../../data-platform.md" %}
-
-In order to make sure each new schema that gets created has the correct permissions we've created script templates that you can run in Civis which will create the necessary groups, assign permissions, and update existing groups for you.
+In order to make sure each new schema that gets created has the correct permissions, we've created script templates that you can run in Civis which will create the necessary groups, assign permissions, and update existing groups for you.
 
 {% hint style="info" %}
 Only users in the admin group can create new schemas.

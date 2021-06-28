@@ -9,6 +9,7 @@
 | [VSCode](tools/visual-studio-code.md) | Writing, testing, and debugging code \(mostly Python, SQL, and YAML\). |
 | FileZilla | Accessing data on SFTP servers. |
 | [GitHub](tools/github.md) | Version controlling our code. |
+| DBA Tools | A set of handy tables, views, and functions that will help you administer and debug our data warehouse. |
 
 ## Development Environment
 
@@ -110,4 +111,44 @@ All branches are on the [civis\_pipelines](https://github.com/CityOfBoston/civis
 * Unless you have specific reason not to, open a second pull request from develop into master branch.
 * Delete your feature branch \(any feature branch over a year old will be deleted\)
 * Ensure that the second round of checks between develop and master is conducted by at least one person
+
+## DBA Tools
+
+You may notice a schema named dba within Civis. This schema contains tables, views and functions that will give you information you need to see how the database is doing and check permissions, etc.
+
+### Cheatsheet
+
+If you only remember one thing - remember `SELECT * FROM dba.cheatsheet;`
+
+This table contains a compilation of the most useful commands in case you forget them. You can copy/paste the commands and use them directly.
+
+{% embed url="https://github.com/CityOfBoston/civis\_pipelines/blob/master/sql\_statements/table\_create\_statements/dba-cheatsheet.sql" caption="Source code for the cheatsheet table" %}
+
+### Functions
+
+#### dba.objects\_owned\_by\(&lt;role&gt;\)
+
+This function returns the objects that are owned by a specified role.
+
+#### dba.schema\_permissions\_for\_role\(&lt;role&gt;\)
+
+Returns the schema names as well as whether or not the role has create or usage rights.
+
+#### dba.user\_role\_memberships\(&lt;role&gt;\)
+
+Returns the object id\(s\) and rolename\(s\) a role is a member of.
+
+#### dba.users\_in\_group\(&lt;role&gt;\)
+
+Returns the roles and ids of users in the specified group.
+
+### [Event Triggers](https://www.postgresql.org/docs/current/event-triggers.html)
+
+#### dba.trg\_create\_set\_owner
+
+This function is used as part of an event trigger and is triggered whenever a 'CREATE TABLE', 'CREATE TABLE AS', 'CREATE VIEW', 'SELECT INTO' or 'CREATE FUNCTION' command is executed. It will assign the owner to the proper group roles so that users with write access don't have to worry about using SET role when creating new objects.
+
+We assign these objects to group roles so that other write users can properly modify or drop the objects as needed. For example, if the object were under the individual user's role, other users would not be able to drop the object.
+
+
 

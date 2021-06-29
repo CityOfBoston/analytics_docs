@@ -103,5 +103,46 @@ Similarly, the restricted schema script template will assign the appropriate per
 
 If you need to create a schema that fits outside of the logic above, this should be a flag to consider your other options. While nothing will stop you from creating a schema without a template, we have permission unit tests that will catch and flag schemas that aren't created properly and are a security risk.
 
+### Granting Access To Schemas
+
+Users are granted access to schemas via [roles](https://app.gitbook.com/@boston/s/analytics-internal/guides/civis/civis-platform-management#database-roles) instead of directly adding them to the schema. The only exception is restricted schemas which go through a [review process](../../data-platform.md#restricted-data) and access is normally temporary and taken away after the work is completed.
+
+Below are a few example scenarios \(see [Postgres Grant](https://www.postgresql.org/docs/current/sql-grant.html) for all options\):
+
+{% tabs %}
+{% tab title="New User \(Analytics Team\)" %}
+```sql
+-- All open data and sandbox write access
+GRANT sandbox_write TO user_role;
+```
+{% endtab %}
+
+{% tab title="Data Engineer \(Analytics\)" %}
+```sql
+-- All open data & internal data
+GRANT bostonrobot TO user_role;
+```
+{% endtab %}
+
+{% tab title="New User \(x Team\)" %}
+```sql
+-- Select access only to their department & all open data
+GRANT x_internal_data TO user_role;
+
+-- Gives write access to their department schema
+GRANT x_internal_data_write TO user_role;
+```
+{% endtab %}
+
+{% tab title="Restricted Access" %}
+```sql
+-- Allow user to use the schema
+GRANT USAGE ON x_restricted_data TO user_role;
+-- Allow user to use the table inside the schema
+GRANT SELECT ON [TABLE] TO user_role;
+```
+{% endtab %}
+{% endtabs %}
+
 ## Contract
 

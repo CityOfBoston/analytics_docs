@@ -107,6 +107,10 @@ If you need to create a schema that fits outside of the logic above, this should
 
 Users are granted access to schemas via [roles](https://app.gitbook.com/@boston/s/analytics-internal/guides/civis/civis-platform-management#database-roles) instead of directly adding them to the schema. The only exception is restricted schemas which go through a [review process](../../data-platform.md#restricted-data) and access is normally temporary and taken away after the work is completed.
 
+{% hint style="info" %}
+Only users in the admin group can grant access to schemas.
+{% endhint %}
+
 Below are a few example scenarios \(see [Postgres Grant](https://www.postgresql.org/docs/current/sql-grant.html) for all options\):
 
 {% tabs %}

@@ -36,3 +36,12 @@ This section goes over how to create a new user account and specify which folder
 
 That's it! Now you'll want to send the username and password to the user via [onetimesecret](https://onetimesecret.com/) and let them change their password when they first log in. If you've created a service account, you should also save the password in [Secrets Manager](amazon-web-services.md#secrets-manager).
 
+### Changing a User's Password
+
+1. Click on the user and click on **Edit...** at the bottom
+2. Click on the lock icon next to password and save that password somewhere. You can only see it once!
+3. Check the box **User must change password at next login**
+4. Click on **Save**
+
+That's it! Now you'll want to send the password to the user via [onetimesecret](https://onetimesecret.com/) and let them know they will be asked to change their password when they first log in.
+

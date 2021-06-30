@@ -13,6 +13,21 @@
 
 ## Development Environment
 
+It is highly recommended that you use an integrated development environment \(IDE\) instead of a text editor like Sublime or Notepad. We use [VSCode](tools/visual-studio-code.md) and have built tools around VSCode to make your life easier.
+
+Next, you'll need to install Python and all of the packages we use. You can do so by the instructions below:
+
+1. Download the compressed **.tar.gz** file [here](https://s3.console.aws.amazon.com/s3/buckets/city-of-boston?prefix=development_environment/&region=us-east-1)
+2. Unpack the file into a directory called my\_env \(you can name this whatever you like\)
+   1. `mkdir -p my_env`
+   2. `tar -xzf my_env.tar.gz -C my_env`
+3. Activate the environment. This adds "my\_env/bin" to your PATH 
+   1. `source my_env/bin/activate`
+4. You can now run Python from in the environment
+   1. `(my_env) $ python`
+5. When you're done, deactivate the environment to remove it from your path
+   1. `(my_env) $ source my_env/bin/deactivate`
+
 ## [civis\_pipelines](https://github.com/CityOfBoston/civis_pipelines)
 
 All of our code lives in the civis\_pipelines monorepo. This repo is broken up into the following parts:

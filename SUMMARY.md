@@ -5,6 +5,7 @@
   * [🚩 Mission, Vision, Values](team/mission-vision-values.md)
   * [☎️ Employee Directory](team/employee-directory.md)
   * [💼 Our Services](team/our-services.md)
+  * [⭐ Hall of Fame](https://docs.boston.gov/analytics-internal/team/hall-of-fame)
 * [Programs](programs/README.md)
   * [Analyze Boston](programs/analyze-boston.md)
   * [Summer Fellowship](programs/summer-fellowship.md)

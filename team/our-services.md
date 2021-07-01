@@ -1,5 +1,5 @@
 ---
-description: Are you a City of Boston department? See how we can help you.
+description: What can the Analytics Team do for you?
 ---
 
 # 💼 Our Services

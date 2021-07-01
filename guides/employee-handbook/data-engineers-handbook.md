@@ -1,5 +1,13 @@
 # Data Engineer's Handbook
 
+## What we care about
+
+* Shipping mentality
+* Code is as simple as possible \(i.e. readability matters\)
+* Knowledge sharing
+* Making sure we don't incentivize the wrong behavior \(counting lines of code\)
+* Reducing bugs
+
 ## Toolkit
 
 | Name | What we use it for |

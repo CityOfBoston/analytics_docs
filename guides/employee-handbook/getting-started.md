@@ -40,5 +40,7 @@ The DoIT Terminology Survival Guide lists all of the most common city acronyms t
 
 {% embed url="https://access.boston.gov/" caption="One place for accessing most of our applications." %}
 
+{% embed url="https://www.boston.gov/departments/innovation-and-technology/brand-guidelines" %}
 
+{% embed url="https://patterns.boston.gov/" %}
 

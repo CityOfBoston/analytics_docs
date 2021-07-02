@@ -12,9 +12,9 @@ A cloud strategy will always favor infrastructure as code as the most important 
 
 Terraform is an Infrastructure as Code software product that allows you to backup and deploy your entire cloud architecture as lines of code. This is invaluable when migrating to another cloud account or provider, and when things go wrong \(as they always do\)
 
-## Services
+## Services:
 
-### EC2
+## EC2
 
 This service allows us to create servers on-demand.
 
@@ -22,22 +22,22 @@ This service allows us to create servers on-demand.
 Be very careful about your security settings for all EC2 instances. Improper security settings can lead to the VPC being hacked.
 {% endhint %}
 
-### [S3](https://s3.console.aws.amazon.com/s3/home)
+## [S3](https://s3.console.aws.amazon.com/s3/home)
 
 S3 stands for Simple Storage Service and we use it mostly for storing large volumes of raw data like backups of databases. You can think of this as the equivalent of file storage \(a folder on a computer\).
 
-### [Secrets Manager](https://console.aws.amazon.com/secretsmanager/home)
+## [Secrets Manager](https://console.aws.amazon.com/secretsmanager/home)
 
 The AWS Secrets Manager is a password or other secret management service provided by AWS. It allows us to securely store credentials and assign them to people based on the needed level of access. You will be able to view and search all stored secrets but you will only be able to access secrets you have permission for.
 
-#### Retrieve a Secret
+### Retrieve a Secret
 
 1. Choose a secret you want to view
 2. Click on **Retrieve secret value**
 
 ![](../../../.gitbook/assets/retrieve-a-secret.png)
 
-#### Naming Conventions
+### Naming Conventions
 
 Each secret has a name, description, and value components. In order to easily know if a credential already exists in storage, it's important to have consistent and clear naming conventions for the Secret Name.
 
@@ -76,7 +76,7 @@ A service is an external 3rd party service we use.
 
 prod/Service/GoogleMaps/bostonaccount
 
-#### Create a New Secret
+### Create a New Secret
 
 1. Click on **Store a new secret**
 2. Choose a secret type \(most common is **other** or **database**\)
@@ -90,4 +90,13 @@ prod/Service/GoogleMaps/bostonaccount
 10. Click on **Next**
 11. Review the details
 12. Click on **Store**
+
+### Granting a User Access to a Secret
+
+As mentioned above, each secret should have an ACCESS\_LEVEL tag which corresponds to a group in AWS Identity and Access Management \(IAM\). In order to grant access, you can either change the tag on the secret to analyst, engineer, or admin OR you can change which group the user is in under the IAM groups section.
+
+1. Go to the [IAM Users pane](https://console.aws.amazon.com/iam/home?region=us-east-1#/users) and click on the user name you want to grant access to
+2. Click on **Groups**
+3. Click **Add user to groups**
+4. Select the appropriate group and click **Add to Groups**
 

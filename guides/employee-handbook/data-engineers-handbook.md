@@ -1,5 +1,7 @@
 # Data Engineer's Handbook
 
+![](../../.gitbook/assets/welcome.png)
+
 ## What we care about
 
 * Shipping mentality

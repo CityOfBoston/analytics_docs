@@ -12,5 +12,10 @@ Docker allows us to version control and isolate the environments our application
 
 This is our most used image for most custom data pipeline components. If you are creating a new component, you should start with this image.
 
+To see available versions, go to:
+https://hub.docker.com/u/bostongov
+
+Click on the docker image on then go to "tags", it shows the last updated version.
+
 
 

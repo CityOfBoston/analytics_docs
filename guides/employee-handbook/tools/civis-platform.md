@@ -75,7 +75,7 @@ Once you've created your trigger and tested it, add it to the [Email Triggers pr
 
 ### Creating New Schemas
 
-There are three types of schemas that you can create: **open\_data**, **internal\_data** and **restricted\_data**. You can read more about these in the [Data Classification](../../data-platform.md#data-classification) section.
+There are three types of schemas that you can create: **open\_data**, **internal\_data** and **restricted\_data**. You can read more about these in the [Data Classification](broken-reference) section.
 
 In order to make sure each new schema that gets created has the correct permissions, we've created script templates that you can run in Civis which will create the necessary groups, assign permissions, and update existing groups for you.
 
@@ -113,7 +113,7 @@ If you need to create a schema that fits outside of the logic above, this should
 
 ### Granting Access To Schemas
 
-Users are granted access to schemas via [roles](https://app.gitbook.com/@boston/s/analytics-internal/guides/civis/civis-platform-management#database-roles) instead of directly adding them to the schema. The only exception is restricted schemas which go through a [review process](../../data-platform.md#restricted-data) and access is normally temporary and taken away after the work is completed.
+Users are granted access to schemas via [roles](https://app.gitbook.com/@boston/s/analytics-internal/guides/civis/civis-platform-management#database-roles) instead of directly adding them to the schema. The only exception is restricted schemas which go through a [review process](broken-reference) and access is normally temporary and taken away after the work is completed.
 
 {% hint style="info" %}
 Only users in the admin group can grant access to schemas.

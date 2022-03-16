@@ -9,18 +9,17 @@ See GitBook’s documentation at [https://docs.gitbook.com/content-editing](http
 {% hint style="danger" %}
 All documentation must follow our [data security policy](https://docs.boston.gov/analytics/guides/employee-handbook/security#data-security-policy). Please familiarize yourself before publishing any documentation.
 
-**Never** document passwords or personally identifiable information \(PII\). Server names are allowed but only in the [Analytics internal documentation](https://app.gitbook.com/@boston/s/analytics-internal/).
+**Never** document passwords or personally identifiable information (PII). Server names are allowed but only in the [Analytics internal documentation](https://app.gitbook.com/@boston/s/analytics-internal/).
 {% endhint %}
 
 Before starting any new documentation, do a simple search to see if it already exists.
 
 ### Where should it go?
 
-First, think about who the intended audience is for what you will be writing. Generally, the top-level pages are meant for all audiences. As you drill down into pages, the audience becomes more specific. Please try to limit nesting pages to no more than 3 levels deep. The majority of new documentation will likely fall under the [employee handbook](./), [tools](tools/), or [projects](../../projects/more-projects.md).
+First, think about who the intended audience is for what you will be writing. Generally, the top-level pages are meant for all audiences. As you drill down into pages, the audience becomes more specific. Please try to limit nesting pages to no more than 3 levels deep. The majority of new documentation will likely fall under the [employee handbook](./), [tools](tools/), or [projects](broken-reference).
 
 We also have an [internal documentation](https://docs.boston.gov/analytics-internal/) site for anything that fits the internal data specification in the [data security policy](https://docs.boston.gov/analytics/guides/employee-handbook/security#data-security-policy).
 
 ## [City of Boston Writing Guide](https://www.boston.gov/departments/digital-team/city-boston-writing-guide)
 
 ## [Brand Guidelines](https://www.boston.gov/departments/innovation-and-technology/brand-guidelines)
-

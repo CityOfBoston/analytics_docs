@@ -6,15 +6,17 @@ The City of Boston's Analytics Team uses data and technology to make life better
 
 ## 💬 Connect With Us
 
-[\#Analytics Slack Channel](https://cityofboston-doit.slack.com/archives/C08ETUZ18)
+[#Analytics Slack Channel](https://cityofboston-doit.slack.com/archives/C08ETUZ18)
 
-[analyticsteam@boston.gov](mailto:analyticsteam@boston.gov%20)
+[analyticsteam@boston.gov](<mailto:analyticsteam@boston.gov >)
 
 ## Are you a City of Boston Department?
 
 See a list of all the ways we can help 👇
 
-{% page-ref page="team/our-services.md" %}
+{% content-ref url="team/our-services.md" %}
+[our-services.md](team/our-services.md)
+{% endcontent-ref %}
 
 ## Press
 
@@ -27,6 +29,4 @@ See a list of all the ways we can help 👇
 {% embed url="https://www.nytimes.com/2015/10/09/us/getting-the-big-picture-in-boston-number-by-number.html" %}
 
 {% embed url="https://www.bostonglobe.com/business/2015/09/24/new-permitting-website-part-broader-effort-improve-boston-small-business-climate/3lRjQPPbOhNLX5nKrf76sK/story.html" %}
-
-
 

@@ -20,11 +20,11 @@ If you don't see Civis in your Access Boston page, your manager should check to 
 
 ## Civis Backend Database
 
-Our instance of Civis is backed by a [PostgreSQL](databases.md#postgres) database \(Amazon RDS\) and can be connected to like any other database. In order to connect, you must be using your computer at City Hall.
+Our instance of Civis is backed by a [PostgreSQL](databases.md#postgres) database (Amazon RDS) and can be connected to like any other database. In order to connect, you must be using your computer at City Hall.
 
 ### Connecting to the Civis Database
 
-In order to connect directly to the Civis database, you must first have a SQL client installed. We recommend one named [DBeaver](dbeaver.md#overview) and the following instructions will be for DBeaver. 
+In order to connect directly to the Civis database, you must first have a SQL client installed. We recommend one named [DBeaver](dbeaver.md#overview) and the following instructions will be for DBeaver.&#x20;
 
 1. Install DBeaver and open it
 2. Follow the [database connection guide](dbeaver.md#how-do-i-create-a-new-database-connection) choosing PostgreSQL as the database type
@@ -59,7 +59,7 @@ Read more about [Scheduling and Chaining Jobs in Civis](https://civis.zendesk.co
 
 #### How do I create an Email Trigger for a workflow?
 
-If you want to generate an email trigger to start a workflow then we've made things a bit simpler for you. Under BostonRobot, you'll find a script template called "[Email Trigger](https://platform.civisanalytics.com/spa/#/scripts/new?type=custom&fromTemplateId=77467)" in Code &gt; More Script Templates.
+If you want to generate an email trigger to start a workflow then we've made things a bit simpler for you. Under BostonRobot, you'll find a script template called "[Email Trigger](https://platform.civisanalytics.com/spa/#/scripts/new?type=custom\&fromTemplateId=77467)" in Code > More Script Templates.
 
 Once you've clicked that, all you have to do is put the workflow id which you can find in the url when viewing the workflow. You would then generate the email address the same way we mentioned previously.
 
@@ -67,7 +67,7 @@ How this script template works is, it takes the workflow id you input and then u
 
 Once you've created your trigger and tested it, add it to the [Email Triggers project](https://platform.civisanalytics.com/spa/#/projects/134640) in Civis so you can easily find it again later, and please use the naming convention: **Email Trigger - {Workflow Name}**
 
-![](../../../.gitbook/assets/image%20%283%29.png)
+![](<../../../.gitbook/assets/image (3).png>)
 
 ## Permissions
 
@@ -87,17 +87,25 @@ Only users in the admin group can create new schemas.
 
 Both open and internal schemas can be created with the same script template below. The script template will change what it does based on whether the schema name contains **open\_data** or **internal\_data** in it.
 
-{% embed url="https://platform.civisanalytics.com/spa/\#/scripts/sql/39625074" caption="Parameterized SQL job in Civis that uses the source code below. Just enter in a schema name and run." %}
+{% embed url="https://platform.civisanalytics.com/spa/#/scripts/sql/39625074" %}
+Parameterized SQL job in Civis that uses the source code below. Just enter in a schema name and run.
+{% endembed %}
 
-{% embed url="https://github.com/CityOfBoston/civis\_pipelines/blob/master/utils/create\_new\_schema\_open\_and\_internal.sql" caption="Source code for creating open and internal schemas." %}
+{% embed url="https://github.com/CityOfBoston/civis_pipelines/blob/master/utils/create_new_schema_open_and_internal.sql" %}
+Source code for creating open and internal schemas.
+{% endembed %}
 
 #### Restricted Schemas
 
 Similarly, the restricted schema script template will assign the appropriate permissions for a restricted schema and only a restricted schema. It must have restricted\_data as the suffix otherwise it will raise an error.
 
-{% embed url="https://platform.civisanalytics.com/spa/\#/scripts/sql/61096138" caption="Parameterized SQL job in Civis that uses the source code below. Just enter in a schema name and run." %}
+{% embed url="https://platform.civisanalytics.com/spa/#/scripts/sql/61096138" %}
+Parameterized SQL job in Civis that uses the source code below. Just enter in a schema name and run.
+{% endembed %}
 
-{% embed url="https://github.com/CityOfBoston/civis\_pipelines/blob/master/utils/create\_new\_schema\_restricted.sql" caption="Source code for creating restricted schemas" %}
+{% embed url="https://github.com/CityOfBoston/civis_pipelines/blob/master/utils/create_new_schema_restricted.sql" %}
+Source code for creating restricted schemas
+{% endembed %}
 
 #### Other Schemas
 
@@ -111,24 +119,24 @@ Users are granted access to schemas via [roles](https://app.gitbook.com/@boston/
 Only users in the admin group can grant access to schemas.
 {% endhint %}
 
-Below are a few example scenarios \(see [Postgres Grant](https://www.postgresql.org/docs/current/sql-grant.html) for all options\):
+Below are a few example scenarios (see [Postgres Grant](https://www.postgresql.org/docs/current/sql-grant.html) for all options):
 
 {% tabs %}
-{% tab title="New User \(Analytics Team\)" %}
+{% tab title="New User (Analytics Team)" %}
 ```sql
 -- All open data and sandbox write access
 GRANT sandbox_write TO user_role;
 ```
 {% endtab %}
 
-{% tab title="Data Engineer \(Analytics\)" %}
+{% tab title="Data Engineer (Analytics)" %}
 ```sql
 -- All open data & internal data
 GRANT bostonrobot TO user_role;
 ```
 {% endtab %}
 
-{% tab title="New User \(x Team\)" %}
+{% tab title="New User (x Team)" %}
 ```sql
 -- Select access only to their department & all open data
 GRANT x_internal_data TO user_role;
@@ -149,4 +157,3 @@ GRANT SELECT ON [TABLE] TO user_role;
 {% endtabs %}
 
 ## Contract
-

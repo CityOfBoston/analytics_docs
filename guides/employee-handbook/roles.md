@@ -12,15 +12,15 @@ Are you interested in working at the City of Boston? Please visit our [career ce
 
 This is a provisional appointment
 
-**Brief Job Description \(essential functions of the job\):** 
+**Brief Job Description (essential functions of the job):**&#x20;
 
-The Department of Innovation and Technology is looking for an Analytics Project Manager to join our growing Citywide Analytics Team. 
+The Department of Innovation and Technology is looking for an Analytics Project Manager to join our growing Citywide Analytics Team.&#x20;
 
 As part of a highly-collaborative group using data to improve all aspects of city government, the Analytics Project Manager will develop and manage Citywide Analytics Team projects from beginning to end. Successful candidates will be able to work closely with other technical staff, project stakeholders, and external partners across City government, manage diverse technologies and projects, and develop tools and best practices that can be implemented across the organization. The Analytics Project Manager will also seek out opportunities for learning that will complement the team’s existing capabilities, provide expert guidance to other members of the Citywide Analytics Team, and assist in training, mentoring, and hands-on assistance as needed.
 
 The Citywide Analytics team is comprised of a diverse group of analysts, data scientists, project managers, developers, and engineers with a range of skills and backgrounds, working together to use data to improve life for those who live and work in Boston. The Analytics Project Manager will fulfill the responsibilities listed below and bring a collaborative spirit that will strengthen and expand the team’s overall range of abilities.
 
- **Responsibilities:**
+&#x20;**Responsibilities:**
 
 * Plans, implements, and maintains analytics projects in support of partners throughout city government
 * Develops in-depth understanding of the workflows, challenges, and stakeholders of specific City departments and programs in order to successfully execute existing projects and identify opportunities for future innovation
@@ -34,8 +34,8 @@ The Citywide Analytics team is comprised of a diverse group of analysts, data sc
 
 #### **Minimum Entrance Qualifications:**
 
-* At least three \(3\) years of full-time, or equivalent part-time, experience working with data analysis projects in a business, government, or nonprofit setting.
-* A bachelor's degree in economics, computer science, social science, engineering, mathematics, public policy, business, or a related field is preferred and may be substituted for up to two \(2\) years of the required experience \(master's degree highly preferred\)
+* At least three (3) years of full-time, or equivalent part-time, experience working with data analysis projects in a business, government, or nonprofit setting.
+* A bachelor's degree in economics, computer science, social science, engineering, mathematics, public policy, business, or a related field is preferred and may be substituted for up to two (2) years of the required experience (master's degree highly preferred)
 * Experience planning and executing collaborative projects from start to finish under time and resource constraints
 * Familiarity with relational database systems such as PostgreSQL, MySQL, or Microsoft SQL Server
 * Proficiency in statistical data analysis and visualization using Python, R, Stata, or similar tools
@@ -45,7 +45,7 @@ The Citywide Analytics team is comprised of a diverse group of analysts, data sc
 * Strong analytical, problem solving, and communication skills, including mapping of specific business needs to appropriate solutions, in a data-focused context
 * Demonstrated success in learning new skills as needed to succeed in a fast-paced environment
 * Talent for explaining complex subject matter to both technical and non-technical audiences
-* Experience in the public sector \(especially in local government\) is highly desirable
+* Experience in the public sector (especially in local government) is highly desirable
 * Performs other related duties as required.
 
 BOSTON RESIDENCY REQUIRED.
@@ -60,7 +60,7 @@ Hours per week:  35
 
 This is a provisional appointment.
 
-**Brief Job Description \(essential functions of the job\):**
+**Brief Job Description (essential functions of the job):**
 
 The Department of Innovation and Technology seeks a Data and Performance Analyst to join the Citywide Analytics Team.
 
@@ -74,17 +74,17 @@ Under the direction and guidance of the Analytics Team leadership, the Data and 
 * Proactively builds and maintains positive and effective relationships with Departments. Works with Departments to analyze results, forecast current and future needs, assess performance and evaluate strategic opportunities.
 * Communicates with and presenting to executive leadership project results and findings.
 * Works with the team’s data engineers and other departments in the development of data warehouses and other data sources to support managerial and business intelligence reporting needs.
-* Assembles, manipulates and/or formats data and/or reports using various software applications such as desktop tools, spreadsheets, report writing software, statistical software, graphical presentation tools, and business intelligence \(BI\) applications.
+* Assembles, manipulates and/or formats data and/or reports using various software applications such as desktop tools, spreadsheets, report writing software, statistical software, graphical presentation tools, and business intelligence (BI) applications.
 * Performs related work as required.
 
-**Minimum Entrance Qualifications** 
+**Minimum Entrance Qualifications**&#x20;
 
-* A minimum of two \(2\) years of full-time, or equivalent part-time, professional experience in business or public administration, program management or related field, in work that included data analysis, reporting, dashboarding, mapping, and/or visualization using software and languages such as Python, R, SQL, ArcGIS, or Tableau.  
+* A minimum of two (2) years of full-time, or equivalent part-time, professional experience in business or public administration, program management or related field, in work that included data analysis, reporting, dashboarding, mapping, and/or visualization using software and languages such as Python, R, SQL, ArcGIS, or Tableau. &#x20;
 * Experience in a government setting preferred.
 * A bachelor’s degree in business, public policy or administration, economics, computer science, or another STEM field is preferred and may be substituted for two years of the required experience
 * Must be able to manage multiple tasks simultaneously and react to problems quickly.
 * Must be able to translate concepts and directions into practical solutions.
-* Experience with Microsoft Word, Excel, and PowerPoint and Google Apps \(Docs, Sheets, and slides\) strongly preferred.
+* Experience with Microsoft Word, Excel, and PowerPoint and Google Apps (Docs, Sheets, and slides) strongly preferred.
 * Ability to exercise good judgment and focus on details as required by the job.
 * Ability to manage simultaneous assignments while maintaining a critical attention to detail.
 * Demonstrated ability to work on diverse teams and experience building strong relationships across a range of functional areas and seniority levels.
@@ -101,14 +101,14 @@ Hours per week: 35
 
 ## Data Engineer
 
-**Brief Job Description \(essential functions of the job\):**
+**Brief Job Description (essential functions of the job):**
 
-The Department of Innovation and Technology is looking for a Data Engineer to join our growing Analytics Team. As part of a highly-collaborative group using data to improve all aspects of city government, the Data Engineer will work on expanding our data infrastructure, developing ETL pipelines and open datasets, and connecting our analysts and data scientists to the data they need. Successful candidates will be able to work closely with other technical staff, project managers, and external partners across City government. They will have a strong understanding of data engineering principles and processes and be able to work on a wide range of projects and with a variety of tools. 
+The Department of Innovation and Technology is looking for a Data Engineer to join our growing Analytics Team. As part of a highly-collaborative group using data to improve all aspects of city government, the Data Engineer will work on expanding our data infrastructure, developing ETL pipelines and open datasets, and connecting our analysts and data scientists to the data they need. Successful candidates will be able to work closely with other technical staff, project managers, and external partners across City government. They will have a strong understanding of data engineering principles and processes and be able to work on a wide range of projects and with a variety of tools.&#x20;
 
 **Responsibilities:**
 
-* Sets up automated extract, transforms, and loads \(ETL\) workflows.
-* Works closely with other members of the team to support their data needs and assist users in interacting with and connecting to databases. 
+* Sets up automated extract, transforms, and loads (ETL) workflows.
+* Works closely with other members of the team to support their data needs and assist users in interacting with and connecting to databases.&#x20;
 * Designs and maintains data warehouse/reporting schemas and migrate pipelines from legacy systems to the team’s new data warehouse.
 * Independently researches and implements new tools and techniques to develop ETL pipelines.
 * Analyzes existing code and make suggestions for optimizing and migrating existing processes .
@@ -118,18 +118,18 @@ The Department of Innovation and Technology is looking for a Data Engineer to jo
 
 **Minimum Entrance Qualifications:**
 
-* Applicant must have at least three \(3\) years of full-time, or equivalent part-time, experience using databases to manage and process datasets for reporting and analytics as part of a large organization.
-* A bachelor's degree in computer science, mathematics, engineering, or another STEM field is preferred and may be substituted for two \(2\) years of the required experience.
+* Applicant must have at least three (3) years of full-time, or equivalent part-time, experience using databases to manage and process datasets for reporting and analytics as part of a large organization.
+* A bachelor's degree in computer science, mathematics, engineering, or another STEM field is preferred and may be substituted for two (2) years of the required experience.
 * Strong analytical, problem solving, and communication skills, including mapping of business needs or issues to technical solutions.
 * Demonstrated ability to communicate technical nuances in plain language with partners of varying technical background.
 * Excellent problem solving and critical thinking skills and experience troubleshooting and debugging software and hardware issues.
-* Advanced SQL query and data transformation skills, preferably using PostgreSQL and/or Transactional SQL \(T-SQL\).
+* Advanced SQL query and data transformation skills, preferably using PostgreSQL and/or Transactional SQL (T-SQL).
 * Familiarity with PostGIS preferred.
 * Experience with the Civis Analytics platform preferred.
 * Experience with lightweight scripting languages such as Python or Bash, version control using Git, and using Linux operating systems.
 * Familiarity with managing and supporting automated ETL and data synchronization.
 * Familiarity with Amazon Web Services cloud computing ecosystem.
-* Experience in the public sector \(especially local government\) desirable but not required.
+* Experience in the public sector (especially local government) desirable but not required.
 * Must be able to exercise good judgment and focus on detail as required by the job.
 
 BOSTON RESIDENCY REQUIRED.
@@ -146,9 +146,9 @@ This is a provisional appointment.
 
 The Department of Innovation and Technology is looking for a Data Engineering Manager to join our growing Citywide Analytics Team. As part of a highly-collaborative group using data to improve all aspects of city government, the Data Engineering Manager will provide technical leadership and expertise as we develop and expand our data infrastructure.  Successful candidates will be able to work closely with other technical staff, project managers, and external partners across City government.  They will have a strong understanding of data engineering principles and processes and be able to manage a wide range of projects to provide ETL and data warehousing systems for the Analytics Team.
 
-This role will support data analysis and will be a key driver for project timelines across data architecture as well as data quality.  We need a key partner who will be responsible for communicating and relationship-building with senior staff throughout the organization to prioritize and execute work, provide mentorship and support staff, and enhance the overall consumption and reliance on analytics.  
+This role will support data analysis and will be a key driver for project timelines across data architecture as well as data quality.  We need a key partner who will be responsible for communicating and relationship-building with senior staff throughout the organization to prioritize and execute work, provide mentorship and support staff, and enhance the overall consumption and reliance on analytics. &#x20;
 
-Successful candidates should have a proven track record of delivering high-quality, timely insights and innovative solutions to difficult problems.  Loving city government is preferred! 
+Successful candidates should have a proven track record of delivering high-quality, timely insights and innovative solutions to difficult problems.  Loving city government is preferred!&#x20;
 
 #### Responsibilities:
 
@@ -170,16 +170,16 @@ Primary Responsibilities:
 
 Minimum Entrance Qualifications:
 
-* Four \(4\) years of full-time, or equivalent part-time, experience working with Database ETL experience for reporting and analytics with a proven track record of successfully supporting an organization's business intelligence and data analytics departments.
-* A bachelor's degree in economics, finance, computer science, business administration, or marketing, or related field is preferred and may be substituted for two \(2\) years of the required experience. Master's degree highly preferred.
+* Four (4) years of full-time, or equivalent part-time, experience working with Database ETL experience for reporting and analytics with a proven track record of successfully supporting an organization's business intelligence and data analytics departments.
+* A bachelor's degree in economics, finance, computer science, business administration, or marketing, or related field is preferred and may be substituted for two (2) years of the required experience. Master's degree highly preferred.
 * Ability to communicate the results of analyses in a clear and effective manner.
 * Strong analytical, problem solving and communication skills, including mapping of business need or issue to development of application requirements or procedural initiatives.
 * Proven ability to ensure effective forms of documentation essential for support of overall technical and user needs.
 * Excellent problem solving and critical thinking skills.
 * SQL query and data transformation skills. Microsoft SQL Server expertise a plus.
-* Experience with MPP data warehouse platforms \(such as SAP Hana, Amazon Redshift, or HP Vertica\) or Hadoop-stack applications \(such as Hive, Spark, Impala, or Sqoop\)
+* Experience with MPP data warehouse platforms (such as SAP Hana, Amazon Redshift, or HP Vertica) or Hadoop-stack applications (such as Hive, Spark, Impala, or Sqoop)
 * Managing and supporting automated ETL and synchronization between data sets.
-* Experience in the public sector \(especially in a city or local government\) is highly desirable.
+* Experience in the public sector (especially in a city or local government) is highly desirable.
 * Must have the ability to exercise good judgment and focus on detail as required by the job.
 
 BOSTON RESIDENCY REQUIRED.
@@ -212,12 +212,12 @@ Responsibilities include:
 
 * Identifies new opportunities to improve city processes, and supports and expands existing efforts,
 * In partnership with the Chief Data Officer and Budget Director, oversees performance improvement projects led and supported by the Citywide Analytics Team and Budget Office,
-* Manages and directs the work of the Performance Manager, Data & Performance Analysts, 311 Analyst, and other staff as directed by the Chief Data Officer.  
+* Manages and directs the work of the Performance Manager, Data & Performance Analysts, 311 Analyst, and other staff as directed by the Chief Data Officer. &#x20;
 
 **Change Management**
 
 * Works with city leadership and management to establish methods to review and drive performance improvements, and supports existing efforts such as Mayoral CityScore, Basic City Services, and Planning & Zoning performance meetings,
-* Investigates and develops curriculum to reinforce and establish lasting management practices throughout the organization \(lean, six sigma, etc.\),
+* Investigates and develops curriculum to reinforce and establish lasting management practices throughout the organization (lean, six sigma, etc.),
 
 Additional responsibilities include:
 
@@ -229,9 +229,9 @@ Additional responsibilities include:
 
 ## **GIS Program Manager**
 
-**Brief Job Description \(essential functions of the job\):**
+**Brief Job Description (essential functions of the job):**
 
-Under the general supervision of the Director of Enterprise Applications, acts as the Geographic Information Systems \(GIS\) Program Manager \(PM\). The GIS Program Manager will be responsible for ensuring the development and maintenance of applications based on spatially referenced data and digital mapping. Coordinates, implements, and manages the City's GIS strategies and initiatives, including preserving the integrity and design of the geographic information databases and managing a team of GIS IT professionals.
+Under the general supervision of the Director of Enterprise Applications, acts as the Geographic Information Systems (GIS) Program Manager (PM). The GIS Program Manager will be responsible for ensuring the development and maintenance of applications based on spatially referenced data and digital mapping. Coordinates, implements, and manages the City's GIS strategies and initiatives, including preserving the integrity and design of the geographic information databases and managing a team of GIS IT professionals.
 
 **Responsibilities include:**
 
@@ -249,12 +249,12 @@ Under the general supervision of the Director of Enterprise Applications, acts a
 
 **Minimum Entrance Qualifications:**
 
-* Applicant must possess at least four \(4\) years of full-time, or equivalent part-time, professional experience in a technology leadership position\(s\), at least 2 of which were in a management position.
+* Applicant must possess at least four (4) years of full-time, or equivalent part-time, professional experience in a technology leadership position(s), at least 2 of which were in a management position.
 * The applicant should have knowledge of development integration and administration techniques for GIS.
 * The ability to integrate, analyze, and evaluate data to produce GIS-based decision support tools is required.
 * The applicant must have the ability to communicate accurate and useful status updates and have the ability to work in a team environment, both within their department and across departments.
 * Experience with ArcGIS 9.x suite is required.
-* A bachelor's degree in geography, computer information systems, database administration, or a related field is highly desired and may be substituted for two \(2\) years of the required experience.
+* A bachelor's degree in geography, computer information systems, database administration, or a related field is highly desired and may be substituted for two (2) years of the required experience.
 * Industry certification of GISP or ASPRS and participation with a GIS professional organization is preferred.
 * Experience in the public sector is highly desired.
 
@@ -268,11 +268,11 @@ BOSTON RESIDENCY REQUIRED
 
 **Salary Min  Salary Max  Union**
 
- ****70,162.79   101,434.20   EXM
+&#x20;**** 70,162.79   101,434.20   EXM
 
 **Overview:**
 
-**Brief Job Description \(essential functions of the job\):**
+**Brief Job Description (essential functions of the job):**
 
 Mayor Walsh is committed to using data to evaluate, understand, and improve how the City of Boston operates and delivers services. The Performance Manager is responsible for supporting this vision by creating mechanisms to evaluate and inform how well the City is operating, helping to drive change in specific areas of city operations, and supporting a culture to sustain and build upon this work.
 
@@ -295,10 +295,10 @@ The Performance Manager is a position in the Department of Innovation & Technolo
 * Performs additional duties as assigned by the Director of Performance Management, Chief Data Officer, and Mayor’s Office.
 * Performs related work as required.
 
- **Minimum Entrance Qualifications:**
+&#x20;**Minimum Entrance Qualifications:**
 
-* At least four \(4\) years of full-time, or equivalent part-time, professional experience in management, program, or budget analysis in work in which the major duties included performance management or other related analytical work, preferably in municipal government.
-* Bachelor's degree strongly preferred and may be substituted for two \(2\) years of the required experience.
+* At least four (4) years of full-time, or equivalent part-time, professional experience in management, program, or budget analysis in work in which the major duties included performance management or other related analytical work, preferably in municipal government.
+* Bachelor's degree strongly preferred and may be substituted for two (2) years of the required experience.
 * Strong oral and written communication skills.
 * Strong quantitative and analytical skills.
 * Demonstrated ability to work in diverse teams and experience building strong relationships across a range of functional areas and seniority levels.
@@ -312,6 +312,4 @@ BOSTON RESIDENCY REQUIRED. You must live within Boston city limits at the start 
 
 Union/Salary Plan/Grade: Nonunion/ MM2-8
 
-Hours per week: 35  
-
-
+Hours per week: 35\

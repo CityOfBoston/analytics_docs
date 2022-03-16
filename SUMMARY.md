@@ -19,8 +19,6 @@
   * [Meetings](guides/employee-handbook/meetings.md)
   * [Data Triage](guides/employee-handbook/data-triage.md)
   * [Roles](guides/employee-handbook/roles.md)
-  * [Data Analyst's Handbook](guides/employee-handbook/data-analysts-handbook.md)
-  * [Data Engineer's Handbook](guides/employee-handbook/data-engineers-handbook.md)
   * [Policies](guides/employee-handbook/policies.md)
   * [Documentation](guides/employee-handbook/documentation.md)
   * [Union](guides/employee-handbook/union.md)
@@ -52,4 +50,3 @@
 * [Outdoor Dining](projects/outdoor-dining.md)
 * [ZBA Appeals Tracker](projects/zba-appeals-tracker.md)
 * [More Projects](projects/more-projects.md)
-

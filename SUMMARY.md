@@ -5,14 +5,6 @@
 ## Guides
 
 * [Employee Handbook](guides/employee-handbook/README.md)
-  * [Communication](guides/employee-handbook/communication.md)
-  * [Security](guides/employee-handbook/security.md)
-  * [Meetings](guides/employee-handbook/meetings.md)
-  * [Data Triage](guides/employee-handbook/data-triage.md)
-  * [Roles](guides/employee-handbook/roles.md)
-  * [Policies](guides/employee-handbook/policies.md)
-  * [Documentation](guides/employee-handbook/documentation.md)
-  * [Union](guides/employee-handbook/union.md)
   * [Tools](guides/employee-handbook/tools/README.md)
     * [Amazon Web Services](guides/employee-handbook/tools/amazon-web-services.md)
     * [ArcGIS](guides/employee-handbook/tools/arcgis.md)

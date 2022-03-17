@@ -6,8 +6,8 @@
 [civis-platform.md](civis-platform.md)
 {% endcontent-ref %}
 
-{% content-ref url="dbeaver.md" %}
-[dbeaver.md](dbeaver.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
 ## Data Visualization
@@ -20,8 +20,8 @@
 [Broken link](broken-reference)
 {% endcontent-ref %}
 
-{% content-ref url="brightsign.md" %}
-[brightsign.md](brightsign.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
 ## Data Infrastructure
@@ -30,12 +30,12 @@
 [Broken link](broken-reference)
 {% endcontent-ref %}
 
-{% content-ref url="docker.md" %}
-[docker.md](docker.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
-{% content-ref url="github.md" %}
-[github.md](github.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
 ## GIS
@@ -50,10 +50,10 @@
 
 ## Other
 
-{% content-ref url="gitbook.md" %}
-[gitbook.md](gitbook.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
-{% content-ref url="slack.md" %}
-[slack.md](slack.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}

@@ -20,14 +20,14 @@ If you don't see Civis in your Access Boston page, your manager should check to 
 
 ## Civis Backend Database
 
-Our instance of Civis is backed by a [PostgreSQL](databases.md#postgres) database (Amazon RDS) and can be connected to like any other database. In order to connect, you must be using your computer at City Hall.
+Our instance of Civis is backed by a [PostgreSQL](broken-reference) database (Amazon RDS) and can be connected to like any other database. In order to connect, you must be using your computer at City Hall.
 
 ### Connecting to the Civis Database
 
-In order to connect directly to the Civis database, you must first have a SQL client installed. We recommend one named [DBeaver](dbeaver.md#overview) and the following instructions will be for DBeaver.&#x20;
+In order to connect directly to the Civis database, you must first have a SQL client installed. We recommend one named [DBeaver](broken-reference) and the following instructions will be for DBeaver.&#x20;
 
 1. Install DBeaver and open it
-2. Follow the [database connection guide](dbeaver.md#how-do-i-create-a-new-database-connection) choosing PostgreSQL as the database type
+2. Follow the [database connection guide](broken-reference) choosing PostgreSQL as the database type
 3. Once you get to the connection settings part, use the following info:
    1. Host, Database, and Port: [Click here to view](https://app.gitbook.com/@boston/s/analytics-internal/guides/civis/connecting-to-civis-in-dbeaver)
    2. Username and Password: Given to you by [Analytics Team](../../../#connect-with-us) or one you set if you have a Civis Platform account

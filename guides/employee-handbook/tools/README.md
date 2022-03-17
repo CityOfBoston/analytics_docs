@@ -2,35 +2,58 @@
 
 ## Data Platform
 
-{% page-ref page="civis-platform.md" %}
+{% content-ref url="civis-platform.md" %}
+[civis-platform.md](civis-platform.md)
+{% endcontent-ref %}
 
-{% page-ref page="dbeaver.md" %}
+{% content-ref url="dbeaver.md" %}
+[dbeaver.md](dbeaver.md)
+{% endcontent-ref %}
 
 ## Data Visualization
 
-{% page-ref page="arcgis.md" %}
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
+{% endcontent-ref %}
 
-{% page-ref page="tableau.md" %}
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
+{% endcontent-ref %}
 
-{% page-ref page="brightsign.md" %}
+{% content-ref url="brightsign.md" %}
+[brightsign.md](brightsign.md)
+{% endcontent-ref %}
 
 ## Data Infrastructure
 
-{% page-ref page="amazon-web-services.md" %}
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
+{% endcontent-ref %}
 
-{% page-ref page="docker.md" %}
+{% content-ref url="docker.md" %}
+[docker.md](docker.md)
+{% endcontent-ref %}
 
-{% page-ref page="github.md" %}
+{% content-ref url="github.md" %}
+[github.md](github.md)
+{% endcontent-ref %}
 
 ## GIS
 
-{% page-ref page="arcgis.md" %}
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
+{% endcontent-ref %}
 
-{% page-ref page="qgis.md" %}
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
+{% endcontent-ref %}
 
 ## Other
 
-{% page-ref page="gitbook.md" %}
+{% content-ref url="gitbook.md" %}
+[gitbook.md](gitbook.md)
+{% endcontent-ref %}
 
-{% page-ref page="slack.md" %}
-
+{% content-ref url="slack.md" %}
+[slack.md](slack.md)
+{% endcontent-ref %}
